@@ -1,0 +1,525 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Stuttgart Journal</title>
+	<atom:link href="https://stuttgart-journal.de/tp3/feed/" rel="self" type="application/rss+xml" />
+	<link>https://stuttgart-journal.de/tp3</link>
+	<description></description>
+	<lastBuildDate>Fri, 10 Jan 2025 10:17:01 +0000</lastBuildDate>
+	<language>de</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+	<item>
+		<title>Untertürkheim: Tatverdächtiger nach Silvesternacht-Attacke festgenommen</title>
+		<link>https://stuttgart-journal.de/tp3/2025/01/10/untertuerkheim-tatverdaechtiger-nach-silvesternacht-attacke-festgenommen/</link>
+					<comments>https://stuttgart-journal.de/tp3/2025/01/10/untertuerkheim-tatverdaechtiger-nach-silvesternacht-attacke-festgenommen/#respond</comments>
+		
+		<dc:creator><![CDATA[adminx]]></dc:creator>
+		<pubDate>Fri, 10 Jan 2025 10:17:01 +0000</pubDate>
+				<category><![CDATA[Journal]]></category>
+		<guid isPermaLink="false">https://stuttgart-journal.de/tp3/?p=15938</guid>
+
+					<description><![CDATA[Stuttgart-Untertürkheim. In den frühen Januartagen hat die Polizei Stuttgart einen bedeutenden Ermittlungserfolg erzielt. Am Mittwoch, den 8. Januar 2025, wurde ein 26-jähriger Mann festgenommen, der beschuldigt wird, während der Silvesternacht Raketen auf eine 20-jährige Frau abgefeuert zu haben, was zu schweren Verletzungen bei ihr führte. Die Ermittlungen der Polizei führten die Beamten zu dem Tatverdächtigen, [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>Stuttgart-Untertürkheim. In den frühen Januartagen hat die Polizei Stuttgart einen bedeutenden Ermittlungserfolg erzielt. Am Mittwoch, den 8. Januar 2025, wurde ein 26-jähriger Mann festgenommen, der beschuldigt wird, während der Silvesternacht Raketen auf eine 20-jährige Frau abgefeuert zu haben, was zu schweren Verletzungen bei ihr führte.</p>
+
+
+
+<p>Die Ermittlungen der Polizei führten die Beamten zu dem Tatverdächtigen, der gegen 16 Uhr in einer Wohnung in Stuttgart-Untertürkheim gefasst werden konnte. Der Mann besitzt die algerische Staatsangehörigkeit und wurde am Donnerstag, den 9. Januar 2025, auf Antrag der Staatsanwaltschaft Stuttgart einem Haftrichter vorgeführt. Der Richter erließ einen Haftbefehl, und der Tatverdächtige wurde daraufhin in eine Justizvollzugsanstalt eingewiesen.</p>
+
+
+
+<p>Die Polizei hat zudem ein Hinweisportal eingerichtet, um weitere Informationen zu der Tat zu sammeln. Zeugen, die möglicherweise Fotos oder Videos vom Vorfall haben, sind aufgefordert, diese auf dem Portal unter <a href="https://bw.hinweisportal.de/" target="_blank" rel="noreferrer noopener">Hinweisportal BW</a> hochzuladen. Darüber hinaus bittet die Kriminalpolizei um Mithilfe und fordert Zeugen auf, sich unter der Telefonnummer +4971189905778 zu melden.</p>
+
+
+
+<h3 class="wp-block-heading">Weitere Informationen und Zeugenaufruf</h3>
+
+
+
+<p>Die Behörden erhoffen sich durch die Veröffentlichung dieser Informationen zusätzliche Hinweise, die zur Klärung des Falls beitragen können. Die Vorfälle der Silvesternacht haben in der Öffentlichkeit Besorgnis ausgelöst, und die Polizei ist bestrebt, die Hintergründe des Angriffs umfassend aufzuklären.</p>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://stuttgart-journal.de/tp3/2025/01/10/untertuerkheim-tatverdaechtiger-nach-silvesternacht-attacke-festgenommen/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Hörgeräte: Vergleich zwischen HdO oder IdO</title>
+		<link>https://stuttgart-journal.de/tp3/2025/01/10/hoergeraete-vergleich-zwischen-hdo-oder-ido/</link>
+					<comments>https://stuttgart-journal.de/tp3/2025/01/10/hoergeraete-vergleich-zwischen-hdo-oder-ido/#respond</comments>
+		
+		<dc:creator><![CDATA[adminx]]></dc:creator>
+		<pubDate>Fri, 10 Jan 2025 10:02:55 +0000</pubDate>
+				<category><![CDATA[Journal]]></category>
+		<guid isPermaLink="false">https://stuttgart-journal.de/tp3/?p=15924</guid>
+
+					<description><![CDATA[Schwerhörigkeit ist für Betroffene mit einem hohen Leidensdruck und schweren Beeinträchtigungen verbunden. Es besteht ein Risiko zur Vereinsamung, denn wer Gesprächen nicht mehr folgen kann, neigt zur Vermeidung sozialer Situationen. Vor allem ältere Menschen haben oft Schwierigkeiten damit, sich diese natürliche Alterserscheinung einzugestehen und verschlechtern damit unnötig ihre Lage. Heute stehen HNO-Ärzten und Hörakustikern mit [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>Schwerhörigkeit ist für Betroffene mit einem hohen Leidensdruck und schweren Beeinträchtigungen verbunden. Es besteht ein Risiko zur Vereinsamung, denn wer Gesprächen nicht mehr folgen kann, neigt zur Vermeidung sozialer Situationen. Vor allem ältere Menschen haben oft Schwierigkeiten damit, sich diese natürliche Alterserscheinung einzugestehen und verschlechtern damit unnötig ihre Lage. Heute stehen HNO-Ärzten und Hörakustikern mit den Mitteln der Digitalisierung gute Instrumente für dezente und leistungsstarke Hörgeräte zur Verfügung.</p>
+
+
+
+<h2 class="wp-block-heading">Schwerhörigkeit: mit einem guten Hörgerät das Leiden beenden</h2>
+
+
+
+<p>Dass die Anpassung an das Hörgerät deutlich langsamer erfolgt als die Anpassung an eine Sehhilfe, sollte kein Grund sein, sich einer notwendigen Behandlung zu verweigern, weil das Gehör für Lebensqualität und Wohlbefinden ebenso wichtig ist wie der Sehsinn. <br>Schwerhörige haben die Möglichkeit, ihre Hörfähigkeit ärztlich abklären zu lassen, um bei Bedarf <a href="https://www.fildern-hoert.de/" target="_blank" rel="noreferrer noopener"><u>Hörgeräte in Filderstadt</u></a> und anderen Städten zu erwerben, sodass sie sich von ihrer Einschränkung befreien können.</p>
+
+
+
+<h2 class="wp-block-heading">HdO- oder IdO?</h2>
+
+
+
+<p>Zunächst werden Hörgeräte in HdO- sowie IdO-Geräte unterschieden. Es sind sprechende Begriffe, die direkten Aufschluss über das System bieten, denn „HdO“ bedeutet „Hinter dem Ohr“ und „IdO“ „In dem Ohr“.</p>
+
+
+
+<h3 class="wp-block-heading">IdO-Geräte: Definition mit Vor- und Nachteilen</h3>
+
+
+
+<p>Ido-Geräte entsprechen dem Wunsch vieler Schwerhöriger nach einem dezenten Erscheinungsbild. Die Größe von IdO-Geräten mutet den Gehörtechnikern für die Entwicklung der Hörgeräte Höchstleistungen zu, da der verfügbare Platz für Technik und Batterie gering ist. Die notwendige Schallverstärkung der Hörhilfen stößt an ihre Grenzen, sodass sich IdO-Geräte allen technologischen Fortschritten zum Trotz eher zum Ausgleich geringer bis mittelgradiger Schwerhörigkeit eignen.<br><br>Weitere Nachteile bestehen darin, dass IdO-Geräte vor allem am Anfang als Fremdkörper wahrgenommen werden und mit Ohrenschmalz-Kontakt leicht Einbußen in ihrer Funktionalität erleiden können. Vorteile bestehen hingegen im dezenten Erscheinungsbild, einer natürlicheren Klangwahrnehmung und der direkten Schallübertragung. Störende Windgeräusche werden ebenso vermieden wie die Kollision mit Brillenbügeln, sodass Brillenträger einen zusätzlichen Anreiz haben, sich für ein IdO-Gerät zu entscheiden.<br><br>Am wenigsten sichtbar sind CIC-Hörgeräte (completely in the Canal), die tiefer in den Gehörgang eingeführt werden, während gewöhnliche IdO-Geräte, wenn sie die Ohrmuschel ausfüllen, trotz Anpassung des Hauttons durchaus wahrnehmbar sind.</p>
+
+
+
+<h3 class="wp-block-heading"><br>HdO-Geräte: Definition mit Vor- und Nachteilen</h3>
+
+
+
+<p>Die Art der HdO-Geräte, hinter dem Ohr befestigt zu werden, macht die Hörgeräte zwar anders als IdO-Geräte für andere leichter sichtbar, bietet den Entwicklern aber bessere Möglichkeiten zum Ausgleich des Hörverlusts. Besonders stark Schwerhörige sind deshalb mit einem HdO-Gerät besser bedient. Um den Schall vom Gerät ins Ohr zu übertragen, können Schläuche eingesetzt werden oder der Gehörgang, der über ein dünnes Kabel mit dem Hörgerät verbunden ist, wird ins Ohr eingeführt. Im Gehäuse der Hörhilfe befinden sich Lautsprecher, Verstärker, Mikrofon, Sprachprozessor und Batterie.<br><br>HdO-Geräte gelten als hygienischer, robuster und leichter zu bedienen. Dafür kann die Klangqualität vor allem bei Schlauchsystemen durch die Distanz zum Gehörgang etwas verzerrt wirken. Weiterhin können HdO-Geräte aufgrund ihrer Größe mit mehr Komponenten für diverse Erleichterungen ausgestattet werden. Windgeräusche können die Übertragung des Schalls stören und die Befestigung hinter dem Ohr kann vor allem in Kombination mit Brillen zu unangenehmen Druckstellen führen. Eine Alternative sind RIC-Hörgeräte (Receiver in Canal), die als Mischform von HdO- und IdO-Geräten die Vorteile beider Systeme miteinander vereinen.</p>
+
+
+
+<h2 class="wp-block-heading">Auf diese Leistungsmerkmale kommt es an</h2>
+
+
+
+<p>Neben der Leistungsfähigkeit der Hörgeräte sind die Klangqualität, Unterdrückung von Hintergrundgeräuschen und die Verstärkung für Handys und Fernsehgeräte weitere Kennzahlen für mehr Leistung. Die Unterdrückung von Hintergrundgeräuschen ist speziell bei größeren Menschenmengen wie bei <a href="https://berlin030.de/die-besten-street-events-und-festivals-in-berlin/"><u>Events</u></a> und Volksfesten nützlich. Ebenso sollten die Haltbarkeit, Batterielaufzeit, die Handlichkeit und die Reinigung der Hörgeräte beachtet werden.<br><br>Insbesondere in den ersten Monaten bleiben Betroffene mit ihrem HNO-Arzt oder Hör-Akustiker in enger Verbindung, um den Prozess der gleitenden Anpassung zu überwachen. Schwierigkeiten beim Hören und Fremdkörperwahrnehmungen sind in der Anfangsphase normal und sollten Träger nicht entmutigen. Wer dauerhaftem Lärm ausgesetzt ist, ist gut beraten, sich mit dem <a href="https://stuttgart-journal.de/tp3/2022/12/20/sechs-verschiedene-arten-von-gehoerschutz-ein-ueberblick/"><u>Thema Gehörschutz</u></a> zu befassen, denn bekanntlich ist Vorsorge besser als Nachsorge.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://stuttgart-journal.de/tp3/2025/01/10/hoergeraete-vergleich-zwischen-hdo-oder-ido/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Esslinger sehr zufrieden mit ihrer Stadt</title>
+		<link>https://stuttgart-journal.de/tp3/2025/01/10/esslinger-sehr-zufrieden-mit-ihrer-stadt/</link>
+					<comments>https://stuttgart-journal.de/tp3/2025/01/10/esslinger-sehr-zufrieden-mit-ihrer-stadt/#respond</comments>
+		
+		<dc:creator><![CDATA[adminx]]></dc:creator>
+		<pubDate>Fri, 10 Jan 2025 06:43:00 +0000</pubDate>
+				<category><![CDATA[Journal]]></category>
+		<category><![CDATA[Magazin]]></category>
+		<category><![CDATA[Topnews]]></category>
+		<guid isPermaLink="false">https://stuttgart-journal.de/tp3/?p=15920</guid>
+
+					<description><![CDATA[Eine Umfrage der Stadtverwaltung beweist, dass viele Einwohner ihre Stadt mögen. Von Alexander Kappen Esslingen am Neckar. Das wichtigste Ergebnis der Umfrage: 80 Prozent der Esslinger leben gern in ihrer Stadt. Die ältere Generation sogar noch lieber: hier sind 89 Prozent zufrieden mit allem ihrer Heimatstadt. 5000 Einwohner wurden zufällig ausgewählt und im Jahr 2024 [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>Eine Umfrage der Stadtverwaltung beweist, dass viele Einwohner ihre Stadt mögen.</p>
+
+
+
+<p>Von Alexander Kappen</p>
+
+
+
+<p>Esslingen am Neckar. Das wichtigste Ergebnis der Umfrage: 80 Prozent der Esslinger leben gern in ihrer Stadt. Die ältere Generation sogar noch lieber: hier sind 89 Prozent zufrieden mit allem ihrer Heimatstadt. 5000 Einwohner wurden zufällig ausgewählt und im Jahr 2024 angeschrieben. 41 Prozent davon antworteten. Sie beantworteten „brav“ die ihnen gestellten Fragen. Allein die hohe Beteiligung der freiwilligen Umfrage zeigt, dass die Esslinger sich verbunden fühlen mit ihrer Heimatstadt.</p>
+
+
+
+<p>OB Matthias Klopfer und sein Verwaltungsteam erhofft sich dadurch Rückschlüsse welche Themen man in Esslingen angehen sollte und was man eben verbessern sollte, sofern es die leeren Haushaltskassen hergeben…<br>Die Umfrage ist die zweite große ihrer Art in der Mittelalterstadt am Neckar, die kleine Schwester von Stuttgart. So könnte man es formulieren. Die Daten wurden zwischen April und Mai 2024 abgefragt. Themen wie Lebensqualität und Zufriedenheit waren Inhalt. Ebenso Stadtverwaltung, Kommunalpolitik, Mobilität, Verkehr, Klimaschutz, Digitalisierung und Wohnen.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://stuttgart-journal.de/tp3/2025/01/10/esslinger-sehr-zufrieden-mit-ihrer-stadt/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Unfallflucht in Ludwigsburg: Elfjähriger von Transporter angefahren</title>
+		<link>https://stuttgart-journal.de/tp3/2025/01/09/unfallflucht-in-ludwigsburg-elfjaehriger-von-transporter-angefahren/</link>
+					<comments>https://stuttgart-journal.de/tp3/2025/01/09/unfallflucht-in-ludwigsburg-elfjaehriger-von-transporter-angefahren/#respond</comments>
+		
+		<dc:creator><![CDATA[adminx]]></dc:creator>
+		<pubDate>Thu, 09 Jan 2025 10:25:54 +0000</pubDate>
+				<category><![CDATA[Ludwigsburg]]></category>
+		<category><![CDATA[Polizeinachrichten]]></category>
+		<guid isPermaLink="false">https://stuttgart-journal.de/tp3/?p=15930</guid>
+
+					<description><![CDATA[Ludwigsburg. Am Mittwoch, den 8. Januar 2024, ereignete sich gegen 07:25 Uhr ein Vorfall in der Karlstraße, zwischen dem Bahnhof und der Solitudestraße, bei dem ein unbekannter Fahrzeugführer einen Elfjährigen anfährt und anschließend flüchtet. Die Polizei in Ludwigsburg sucht in diesem Zusammenhang nach Zeugen. Laut ersten Ermittlungen waren drei Kinder zu Fuß im Bereich des [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>Ludwigsburg. Am Mittwoch, den 8. Januar 2024, ereignete sich gegen 07:25 Uhr ein Vorfall in der Karlstraße, zwischen dem Bahnhof und der Solitudestraße, bei dem ein unbekannter Fahrzeugführer einen Elfjährigen anfährt und anschließend flüchtet. Die Polizei in Ludwigsburg sucht in diesem Zusammenhang nach Zeugen.</p>
+
+
+
+<p>Laut ersten Ermittlungen waren drei Kinder zu Fuß im Bereich des Solitudeplatzes unterwegs, als sich von hinten ein Fahrzeug näherte. Es handelt sich vermutlich um einen weißen Transporter oder einen Klein-Lkw, der möglicherweise im Dienst einer Bäckerei steht. Der Fahrer des Fahrzeugs passierte die drei Kinder und touchierte dabei den Elfjährigen, wodurch dieser stürzte.</p>
+
+
+
+<p>Trotz der vorangegangenen Berührung blieb der Fahrer nicht stehen. Die Kinder, die den Vorfall aufmerksam beobachteten, versuchten, den Fahrer noch anzusprechen. Doch dieser setzte seine Fahrt fort und ließ die Kinder verwirrt und besorgt zurück.</p>
+
+
+
+<p>Der Junge trug bei dem Vorfall leichte Verletzungen davon, die näheren Umstände sind bislang noch unzureichend geklärt. Die Polizei hat die Ermittlungen aufgenommen und bittet um Hinweise. Zeugen, die den Vorfall beobachtet haben oder weitere Informationen bereitstellen können, sind aufgefordert, sich unter der Telefonnummer 07141 18-5353 oder per E-Mail an ludwigsburg.prev@polizei.bwl.de zu melden.</p>
+
+
+
+<p><strong>Polizei sucht nach weiteren Zeugen des Vorfalls</strong></p>
+
+
+
+<p>Die Ermittler hoffen, durch Hinweise aus der Bevölkerung mehr über den flüchtigen Fahrer und das angefahrene Fahrzeug in Erfahrung zu bringen. Die genaue Unfallursache sowie die Identität des Fahrzeugführers sind noch unklar, was eine umfassende Aufklärung der Situation notwendig macht.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://stuttgart-journal.de/tp3/2025/01/09/unfallflucht-in-ludwigsburg-elfjaehriger-von-transporter-angefahren/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Angesagte Schmuckstücke 2025 Diese Accessoires liegen im Trend</title>
+		<link>https://stuttgart-journal.de/tp3/2025/01/09/angesagte-schmuckstuecke-2025-diese-accessoires-liegen-im-trend/</link>
+					<comments>https://stuttgart-journal.de/tp3/2025/01/09/angesagte-schmuckstuecke-2025-diese-accessoires-liegen-im-trend/#respond</comments>
+		
+		<dc:creator><![CDATA[adminx]]></dc:creator>
+		<pubDate>Thu, 09 Jan 2025 10:01:07 +0000</pubDate>
+				<category><![CDATA[Journal]]></category>
+		<category><![CDATA[Regiotainment]]></category>
+		<guid isPermaLink="false">https://stuttgart-journal.de/tp3/?p=15926</guid>
+
+					<description><![CDATA[Im Jahr 2025 erstrahlen Schmuckstücke in neuem Glanz, indem sie die Trends der Saison verkörpern und gleichzeitig auf bewährte Eleganz setzen. Die Modewelt sieht eine Verschmelzung von luxuriösen Materialien und meisterhafter Handwerkskunst, die hochwertige Schmuckstücke zu einem unverzichtbaren Accessoire macht. Der Besuch beim Juwelier wird zu einem sinnlichen Erlebnis, bei dem die neuesten Kreationen in [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>Im Jahr 2025 erstrahlen Schmuckstücke in neuem Glanz, indem sie die Trends der Saison verkörpern und gleichzeitig auf bewährte Eleganz setzen. Die Modewelt sieht eine Verschmelzung von luxuriösen Materialien und meisterhafter Handwerkskunst, die hochwertige Schmuckstücke zu einem unverzichtbaren Accessoire macht.</p>
+
+
+
+<p>Der Besuch beim Juwelier wird zu einem sinnlichen Erlebnis, bei dem die neuesten Kreationen in ihrer vollen Pracht entdeckt werden können. Diese gefragten Stücke setzen nicht nur modische Akzente, sondern bieten durch ihre Qualität auch langfristige Freude. Dieser Artikel zeigt, welche Schmucktrends 2025 das Herz höher schlagen lassen und wie sie den Stil ihrer Trägerinnen und Träger bereichern können.</p>
+
+
+
+<h2 class="wp-block-heading"><a></a> <strong>Tipp Nr. 1: Hochwertige Schmuckstücke</strong></h2>
+
+
+
+<p>Im Jahr 2025 stehen hochwertige Schmuckstücke, wie sie zum Beispiel jeder moderne <a href="https://www.juwelier-schott.de/" target="_blank" rel="noreferrer noopener"><u>Juwelier in Tübingen</u></a> anbietet, ganz oben auf der Trendliste. Luxuriöser Schmuck zeichnet sich durch seine exquisite Verarbeitung und die Verwendung edler Materialien aus. Diese Stücke sind eine Investition wert, denn sie sind nicht nur modisch, sondern auch langlebig.</p>
+
+
+
+<p>Viele Juweliere bieten eine exklusive Auswahl an solchen edlen Schmuckstücken und können auch maßgeschneiderte Kreationen anfertigen, die den individuellen Geschmack widerspiegeln. Der Besuch beim Juwelier eröffnet eine Welt aus zeitloser Eleganz und bietet die Möglichkeit, Stücke zu entdecken, die Tradition und modernen Chic verbinden. Diese Investition in Qualität zahlt sich meist langfristig aus.</p>
+
+
+
+<h2 class="wp-block-heading"><a></a> <strong>Tipp Nr. 2: Nachhaltiger Schmuck</strong></h2>
+
+
+
+<p>Nachhaltigkeit ist mehr als nur ein vorübergehender Trend und hat nun auch im Schmuckdesign Einzug gehalten. Immer mehr Designer setzen auf umweltfreundliche Materialien und nachhaltige Produktionsmethoden.</p>
+
+
+
+<p>Recyceltes Gold, konfliktfreie Edelsteine und organische Materialien wie Holz oder recyceltes Glas gewinnen an Popularität. Diese Stücke sind nicht nur stilvoll, sondern auch ein Ausdruck von Verantwortung und Bewusstsein für die Umwelt. Nachhaltige Schmuckstücke vereinen Eleganz mit gutem Gewissen und tragen zu einem ökologisch verantwortungsbewussten Lebensstil bei.</p>
+
+
+
+<h2 class="wp-block-heading"><a></a> <strong>Tipp Nr. 3: Personalisierte Accessoires</strong></h2>
+
+
+
+<p>Besonders persönliche Designs sind nicht nur dann gefragt, wenn es darum geht, <a href="https://stuttgart-journal.de/tp3/2022/08/22/der-trend-des-jahres-mode-selber-naehen/" target="_blank" rel="noreferrer noopener"><u>Mode selbst zu nähen</u></a>. Auch individuelle und personalisierte Accessoires sind 2025 besonders gefragt. Sie bieten die Möglichkeit, einzigartige Schmuckstücke mit persönlichem Charakter zu gestalten.</p>
+
+
+
+<p>Gravuren, Initialen oder individuelle Designs verleihen einem Schmuckstück eine besondere Bedeutung und machen es einzigartig. Diese Stücke sind ideal, um wichtige Momente oder Beziehungen zu würdigen und zu feiern. Personalisierter Schmuck hebt sich von der Masse ab und erfüllt gleichzeitig den Wunsch nach einem individuellen Ausdruck. Er bleibt immer im Trend, weil er persönlich und individuell gestaltet ist.</p>
+
+
+
+<h2 class="wp-block-heading"><a></a> <strong>Tipp Nr. 4: Statement-Ohrringe</strong></h2>
+
+
+
+<p>Große, auffällige Ohrringe setzen in diesem Jahr ein modisches Ausrufezeichen. Statement-Ohrringe sind ideal, um einem Outfit das gewisse Etwas zu verleihen. Sie variieren in Form und Farbe, von geometrischen Mustern bis hin zu floralen Designs, und bieten eine Vielzahl von Optionen, die jede Garderobe aufwerten… und auf Wunsch auch das ein oder andere <a href="https://www.kunstplaza.de/kreativitaet/taetowieren-kunstform/"><u>Tattoo, das mittlerweile von vielen als Kunstform angesehen wird</u></a>, in Szene zu setzen.</p>
+
+
+
+<p>Diese Accessoires sind perfekte Begleiter für jeden Anlass und können sowohl im Alltag als auch zu festlichen Events getragen werden. Mit Statement-Ohrringen lässt sich der persönliche Stil unterstreichen und ein wirkungsvolles modisches Statement setzen.</p>
+
+
+
+<h2 class="wp-block-heading"><a></a> <strong>Tipp Nr. 5: Vintage-inspirierte Styles</strong></h2>
+
+
+
+<p>Vintage-inspirierte Schmuckstücke erfreuen sich 2025 großer Beliebtheit, indem sie Nostalgie und modernen Stil harmonisch vereinen. Diese Designs greifen die Eleganz vergangener Jahrzehnte auf und transformieren sie in die Gegenwart. Art-Deco-Kollektionen, antike Edelsteinfassungen und filigrane Details sind kennzeichnend für diesen Trend.</p>
+
+
+
+<p>Vintage-Schmuckstücke bieten nicht nur einen klassischen Look, sondern sind auch häufig nachhaltig, da oft auf Second-Hand-Stücke oder Neuinterpretationen alter Designs zurückgegriffen wird. Diese Stücke sind wahre Hingucker und verleihen jedem Outfit eine zeitlose Eleganz.</p>
+
+
+
+<h2 class="wp-block-heading"><a></a> <strong>Tipp Nr. 6: Technologisch inspirierte Schmuckdesigns</strong></h2>
+
+
+
+<p>Die Integration von Technologie in Schmuckdesigns eröffnet neue Möglichkeiten und macht technologisch inspirierte Schmuckstücke zu einem aufstrebenden Trend im Jahr 2025. Von Smartwatches mit edlem Design bis hin zu Schmuckstücken mit eingebauter Technologie wie Fitness-Tracker oder LED-Leuchten sind der Fantasie kaum Grenzen gesetzt.</p>
+
+
+
+<p>Diese Verschmelzung von Technik und Mode spricht besonders die technikaffine Generation an, die Wert auf Funktionalität und modernes Design legt. Technologisch inspirierter Schmuck ist zukunftsweisend und steht für Innovation und Fortschritt in der Schmuckindustrie.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://stuttgart-journal.de/tp3/2025/01/09/angesagte-schmuckstuecke-2025-diese-accessoires-liegen-im-trend/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Mehr Spaß am Fluss in Esslingen: Arbeiten für Neckaruferpark in vollem Gange</title>
+		<link>https://stuttgart-journal.de/tp3/2025/01/09/mehr-spass-am-fluss-in-esslingen-arbeiten-fuer-neckaruferpark-in-vollem-gange/</link>
+					<comments>https://stuttgart-journal.de/tp3/2025/01/09/mehr-spass-am-fluss-in-esslingen-arbeiten-fuer-neckaruferpark-in-vollem-gange/#respond</comments>
+		
+		<dc:creator><![CDATA[adminx]]></dc:creator>
+		<pubDate>Thu, 09 Jan 2025 07:41:00 +0000</pubDate>
+				<category><![CDATA[Journal]]></category>
+		<category><![CDATA[Magazin]]></category>
+		<category><![CDATA[Topnews]]></category>
+		<guid isPermaLink="false">https://stuttgart-journal.de/tp3/?p=15918</guid>
+
+					<description><![CDATA[Der Stuttgart Journal Reporter war bei einem Spaziergang am Neckar in die Bauarbeiten geraten. Hier nun einige Infos zu dem Fluss-Verschönerungsprojekt der Stadt Esslingen Von Alexander Kappen Esslingen. Der SJ Reporter war vor einigen Jahren bei der Pressekonferenz zum geplanten Neckaruferpark in der Stadtmitte von Esslingen anwesend. Er hatte sogar selbst Ideen abgegeben wie die [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>Der Stuttgart Journal Reporter war bei einem Spaziergang am Neckar in die Bauarbeiten geraten. Hier nun einige Infos zu dem Fluss-Verschönerungsprojekt der Stadt Esslingen</p>
+
+
+
+<p>Von Alexander Kappen</p>
+
+
+
+<p>Esslingen. Der SJ Reporter war vor einigen Jahren bei der Pressekonferenz zum geplanten Neckaruferpark in der Stadtmitte von Esslingen anwesend. Er hatte sogar selbst Ideen abgegeben wie die anderen Bürger beim Workshop. Nun sind die Bauarbeiten in vollem Gange. Café am Neckar, Liegebereiche und vieles mehr wird am Esslinger Neckar erschaffen.</p>
+
+
+
+<p>Es hat einige Jahre gebraucht um in Gang zu kommen, nun wird aber am Esslinger und Mettinger Neckarufer fleißig geschafft. Bagger rollen und Architekten laufen „wichtig tuerisch“ mit Bauhelmen am Neckarweg entlang, der zurzeit gesperrt ist für Spaziergänger, Gassigeher, Radfahrer.</p>
+
+
+
+<p>Bei den Bauarbeiten fand man Asbestrückstände und musste rund 800 Tonnen Erde entfernen, die vergiftet war. Bäume haben mit ihren Wurzeln dicke „Huppel“ in den Weg gearbeitet, die für Radfahrer zum Problem geworden sind. Hier will man Abhilfe schaffen.</p>
+
+
+
+<p>Im November 2023 begannen die Bauarbeiten. 40 000 Quadratmeter soll das Erholungsgebiet umfassen. Auch eine Aussichtsplattform ist geplant, von der man aus dann die Schiffe und Kanufahrer und natürlich Wasservögel wie den wunderschönen Reiher beobachten kann.</p>
+
+
+
+<p>Man entdeckte Gebäudereste im Untergrund und musste 2500 Kubikmeter Steine entfernen. Die will man nun wiederverwenden für die neuen Wege. Es tut sich einiges am Esslinger Neckarufer, der Reporter wird es im Blick behalten…</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://stuttgart-journal.de/tp3/2025/01/09/mehr-spass-am-fluss-in-esslingen-arbeiten-fuer-neckaruferpark-in-vollem-gange/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Stuttgart: Noch sehr wenige Fahrradgaragen</title>
+		<link>https://stuttgart-journal.de/tp3/2025/01/08/stuttgart-noch-sehr-wenige-fahrradgaragen/</link>
+					<comments>https://stuttgart-journal.de/tp3/2025/01/08/stuttgart-noch-sehr-wenige-fahrradgaragen/#respond</comments>
+		
+		<dc:creator><![CDATA[adminx]]></dc:creator>
+		<pubDate>Wed, 08 Jan 2025 07:36:00 +0000</pubDate>
+				<category><![CDATA[Journal]]></category>
+		<category><![CDATA[Magazin]]></category>
+		<category><![CDATA[Topnews]]></category>
+		<guid isPermaLink="false">https://stuttgart-journal.de/tp3/?p=15916</guid>
+
+					<description><![CDATA[Radfahrer haben es in der Autostadt nicht leicht. Parkplätze zu finden ist schwer. Nur wenige Fahrradgaragen gibt es hierfür. Von Alexander Kappen Stuttgart. Erst 2019 haben die Fahrradgaragen ihren Anfang genommen in Stuttgart – unter der Paulinenbrücke wurde die erste installiert. 40 Plätze für Räder stehen dort zur Verfügung. Mittlerweile gibt es vier weitere Fahrradgaragen [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>Radfahrer haben es in der Autostadt nicht leicht. Parkplätze zu finden ist schwer. Nur wenige Fahrradgaragen gibt es hierfür.</p>
+
+
+
+<p>Von Alexander Kappen</p>
+
+
+
+<p>Stuttgart. Erst 2019 haben die Fahrradgaragen ihren Anfang genommen in Stuttgart – unter der Paulinenbrücke wurde die erste installiert. 40 Plätze für Räder stehen dort zur Verfügung. Mittlerweile gibt es vier weitere Fahrradgaragen in Stuggitown. Zwei in Bahnhofsnähe, am Arnulf-Klett-Platz (60 Plätze) und im Mittleren Schlossgarten (80) und an der Hasenbergstraße (20). Macht insgesamt 200 Plätze. Viel zu wenig wenn man andere Städte vergleicht&#8230;</p>
+
+
+
+<p>Nachteil: Es kostet etwas seinen Drahtesel zu parken. In Stuttgart muss man fürs Abstellen in den Radgaragen nämlich bezahlen: am Tag einen Euro, in der Woche vier und im Monat zehn Euro.</p>
+
+
+
+<p>Übrigens: Am besten wird die Garage in der Hasenbergstraße genutzt. Hier liegt die Ausnutzung bei 85 bis 95 Prozent.</p>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://stuttgart-journal.de/tp3/2025/01/08/stuttgart-noch-sehr-wenige-fahrradgaragen/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Silvesternacht: Brennendes Auto und Finger-Fund</title>
+		<link>https://stuttgart-journal.de/tp3/2025/01/07/silvesternacht-brennendes-auto-und-finger-fund/</link>
+					<comments>https://stuttgart-journal.de/tp3/2025/01/07/silvesternacht-brennendes-auto-und-finger-fund/#comments</comments>
+		
+		<dc:creator><![CDATA[adminx]]></dc:creator>
+		<pubDate>Tue, 07 Jan 2025 09:35:50 +0000</pubDate>
+				<category><![CDATA[Journal]]></category>
+		<category><![CDATA[Magazin]]></category>
+		<category><![CDATA[Topnews]]></category>
+		<guid isPermaLink="false">https://stuttgart-journal.de/tp3/?p=15914</guid>
+
+					<description><![CDATA[Wieder war eine tierische Super-Spürnase im Einsatz. Am Neujahrsmorgen machte eine Frau mit ihrem Hund im Stuttgarter Westen einen Spaziergang. Dabei fand der Hund Carlo in der Ludwigstraße einen einzelnen menschlichen Finger. Von Alexander Kappen Stuttgart/Esslingen. Wir hatten bereits über einen Spezialhund bei der Polizei berichtet, der einen Verkehrsunfall aufklärte. Nun ist ein Hund in [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>Wieder war eine tierische Super-Spürnase im Einsatz. Am Neujahrsmorgen machte eine Frau mit ihrem Hund im Stuttgarter Westen einen Spaziergang. Dabei fand der Hund Carlo in der Ludwigstraße einen einzelnen menschlichen Finger.</p>
+
+
+
+<p><em>Von Alexander Kappen</em></p>
+
+
+
+<p>Stuttgart/Esslingen. Wir hatten bereits über einen Spezialhund bei der Polizei berichtet, der einen Verkehrsunfall aufklärte. Nun ist ein Hund in Stuttgart wieder auf einen möglichen Kriminalfall gestoßen. Am Neujahrsmorgen lief eine Frau mit ihrem 13 Jahre alten Mudi-Mischling Carlo spazieren. Plötzlich bellte Carlo – er hatte einen menschlichen Finger auf dem Gehweg entdeckt. Die Polizei wurde natürlich gerufen.</p>
+
+
+
+<p>Ein 33-Jähriger hatte durch falsches Böllern an Silvester 2 Finger verloren – in der Ludwigstraße. Der Geschädigte lag im Marienhospital. Dorthin brachten die Beamten den Finger, der konnte aber nicht mehr angenäht werden, weil die Verschmutzungen zu groß waren. Allerdings war der Patient gut versorgt worden. Im Marienhospital gab es an Silvester 3 weitere Stuttgarter die mindestens einen Finger durch Böller und Raketen verloren.</p>
+
+
+
+<p>Am Fasanenhof wurde eine 16-Jährige durch eine Rakete verletzt worden. Hier sucht die Polizei noch Zeugen, denn es handelte sich um einen absichtlichen Angriff&#8230;</p>
+
+
+
+<p>In Esslingen brannte ein Auto und im Stadtteil Mettingen wurden rund ein Dutzend Autos mutwillig beschädigt: Außenspiegel abgebrochen und ähnliches.</p>
+
+
+
+<p>Trotzdem frohes Neues wünscht das Stuttgart Journal seinen Lesern und nächstes Silvester einfach das Böllern weglassen – wegen der Gesundheit und der Ruhe auch für Tiere!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://stuttgart-journal.de/tp3/2025/01/07/silvesternacht-brennendes-auto-und-finger-fund/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Kolumne: Allein bei der Silvester-Single-Party</title>
+		<link>https://stuttgart-journal.de/tp3/2025/01/07/kolumne-allein-bei-der-silvester-single-party/</link>
+					<comments>https://stuttgart-journal.de/tp3/2025/01/07/kolumne-allein-bei-der-silvester-single-party/#respond</comments>
+		
+		<dc:creator><![CDATA[adminx]]></dc:creator>
+		<pubDate>Tue, 07 Jan 2025 09:31:00 +0000</pubDate>
+				<category><![CDATA[Journal]]></category>
+		<category><![CDATA[Magazin]]></category>
+		<category><![CDATA[Topnews]]></category>
+		<guid isPermaLink="false">https://stuttgart-journal.de/tp3/?p=15912</guid>
+
+					<description><![CDATA[Der Stuttgart Journal Reporter ist Junggeselle und geht traditionell jedes Silvester auf ein Event des Freizeittreffs „Stuttgarter Singles“. Von Alexander Kappen Stuttgart. In Ruit auf den Fildern befindet sich nicht nur die bekannte deutsche Sporthochschule, in der öfters auch mal die Fußball-Nationalmannschaft gastiert, sondern auch das Restaurant Waldheim. Hier feierte der Freizeittreff „Stuttgarter Singles“ wieder [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>Der Stuttgart Journal Reporter ist Junggeselle und geht traditionell jedes Silvester auf ein Event des Freizeittreffs „Stuttgarter Singles“.</p>
+
+
+
+<p>Von Alexander Kappen</p>
+
+
+
+<p>Stuttgart. In Ruit auf den Fildern befindet sich nicht nur die bekannte deutsche Sporthochschule, in der öfters auch mal die Fußball-Nationalmannschaft gastiert, sondern auch das Restaurant Waldheim. Hier feierte der Freizeittreff „Stuttgarter Singles“ wieder eine seiner bekannten Silvesterpartys. Seit rund 5 Jahren besucht der Reporter diese Events, um zum Jahreswechsel nicht gänzlich allein zu sein.</p>
+
+
+
+<p>Im vergangenen Jahr feierte er im Esslinger Kulturzentrum „Komma“. Leider hat das Lokal mittlerweile geschlossen, sodass es ihn nach Ruit auf die Fildern verschlagen hatte. Um seinen schönen neuen Mercedes („Heiligs Blechle“) vor Böllern zu verschonen, fuhr er mit dem Taxi und seinem pakistanischen Stammfahrer nach Ruit.</p>
+
+
+
+<p>Das Lokal Waldheim liegt schön ruhig an den Feldern und hier kamen 50 Singles zusammen. Dass es sich hier nicht nur um Singles handelte, sollte der Reporter noch (schmerzhaft) zu spüren bekommen&#8230;</p>
+
+
+
+<p>Ein riesiges Buffet mit leckerem Serrano-Schinken, den man von einem Schweinebeinchen schneiden konnte, eine Käseplatte, Hirsch-Steaks und ein umfangreiches Dessert sorgten schon einmal für gute Silvester-Laune beim Reporter. Immerhin hatte man 55 Euro im Vorfeld dafür löhnen müssen&#8230;</p>
+
+
+
+<p>Tonic mit Wodka oder ohne waren die kostenlosen Begrüßungsdrinks. Schnell fand der Reporter Gesprächskollegen. Ein 2-Meter-Mann klärte ihn über die Flirtgewohnheiten der Ü50 Singles auf. Der Reporter war sichtbar mit seinen 45 Lenzen der jüngste von allen. „In dem Alter von über 50 da sucht man nicht sofort einen Partner fürs Bett. Man hat sich sein Reich aufgebaut und sucht erst einmal jemand zum Kommunizieren, damit man nicht so allein ist.“, so klärte der 2 Meter Hüne den Reporter freundschaftlich auf. Außer vielen Gesprächen mit Damen Ü50 kam bei den vergangenen Silvesterpartys leider auch nicht herum. Traditionell tanzte der Reporter auch wieder bei dem Event. Professioneller machte es ein Pärchen, das sich bei einem Stusi-Event kennengelernt hatte. Klassischer Walzer und Discofox legten die beiden aufs Tanzparkett.</p>
+
+
+
+<p>Der „Naturbursche“ so sein Nick auf der Single-Seite verriet, dass er aus dem Schwarzwald komme. Seine Partnerin war dann die Favoritin des Reporters. Sie kam aus dem Osten und der Reporter freute sich über die nette „Honigfrau“, so der Spitzname der Zonen-Damen, wie er es aus einem Film her kannte.</p>
+
+
+
+<p>Zunächst war die super freundliche Dame nämlich allein am Tisch des Reporters erschienen und suchte sofort das Gespräch mit ihm. Nach 10 Minuten tauchte dann aber der „Naturbursche“ auf und wich seiner Partnerin nicht mehr von der Seite. Auch von seinen Buffetgängen kam er auffällig schnell wieder zurück, um wohl „nach dem Rechten zu sehen“. <img src="https://s.w.org/images/core/emoji/15.0.3/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /> So feierte der Reporter mit halb guter Laune ins neue Jahr hinein und hofft auf einen besseren Ausgang der nächsten Party Ende 2025&#8230;</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://stuttgart-journal.de/tp3/2025/01/07/kolumne-allein-bei-der-silvester-single-party/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Weihnachtsmarkt 2024: Positive Bilanz der Polizei</title>
+		<link>https://stuttgart-journal.de/tp3/2024/12/30/weihnachtsmarkt-2024-positive-bilanz-der-polizei/</link>
+					<comments>https://stuttgart-journal.de/tp3/2024/12/30/weihnachtsmarkt-2024-positive-bilanz-der-polizei/#respond</comments>
+		
+		<dc:creator><![CDATA[adminx]]></dc:creator>
+		<pubDate>Mon, 30 Dec 2024 08:40:04 +0000</pubDate>
+				<category><![CDATA[Journal]]></category>
+		<category><![CDATA[Magazin]]></category>
+		<category><![CDATA[Topnews]]></category>
+		<guid isPermaLink="false">https://stuttgart-journal.de/tp3/?p=15909</guid>
+
+					<description><![CDATA[Stuttgart-Mitte. Das Polizeipräsidium Stuttgart zieht eine durchweg positive Bilanz zum diesjährigen Weihnachtsmarkt, der vom 27. November bis zum 23. Dezember 2024 stattfand. In diesem Zeitraum wurden insgesamt nur 33 Straftaten registriert, was im Vergleich zu 73 Fällen im Vorjahr einen deutlichen Rückgang darstellt. Insbesondere die Entwicklung bei den Taschendiebstählen erfreut die Sicherheitsbehörden. Die Zahl der [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>Stuttgart-Mitte. Das Polizeipräsidium Stuttgart zieht eine durchweg positive Bilanz zum diesjährigen Weihnachtsmarkt, der vom 27. November bis zum 23. Dezember 2024 stattfand. In diesem Zeitraum wurden insgesamt nur 33 Straftaten registriert, was im Vergleich zu 73 Fällen im Vorjahr einen deutlichen Rückgang darstellt.</p>
+
+
+
+<p>Insbesondere die Entwicklung bei den Taschendiebstählen erfreut die Sicherheitsbehörden. Die Zahl der gemeldeten Fälle fiel von 27 im Jahr 2023 auf lediglich vier im Jahr 2024. Auch bei den Körperverletzungen wurde eine signifikante Verbesserung festgestellt. Während im Vorjahr noch zwölf Vorfälle zu verzeichnen waren, blieb die Anzahl in diesem Jahr auf nur einen einzigen Fall begrenzt.</p>
+
+
+
+<p>Polizeidirektor Jens Rügner, der als Einsatzleiter fungierte, erklärt: &#8222;Diese Zahlen belegen, dass unsere Strategie erfolgreich war. Die Kombination aus präventiven Maßnahmen, sichtbarer Präsenz und gezielten Kontrollen hat sich bewährt.&#8220; Darüber hinaus hebt er hervor, dass die zusätzlichen Befugnisse durch die neue Durchführungsverordnung zum Waffengesetz maßgeblich zur Sicherheit beigetragen haben. Rügner betont die Notwendigkeit, den positiven Trend auch in Zukunft nachhaltig zu sichern.</p>
+
+
+
+<p>Ein weiterer Schritt zur Steigerung des Sicherheitsgefühls war die Einführung einer mobilen Wache, die an den Wochenenden im Bereich des Schillerplatzes im Einsatz war. Diese mobile Anlaufstelle diente nicht nur zur Entgegennahme von Anzeigen, sondern auch der Unterstützung bei der Zusammenführung vermisster Kinder sowie der Bearbeitung von Fundsachen. Zudem bot sie eine Plattform für den direkten Austausch mit den Besucherinnen und Besuchern des Weihnachtsmarktes.</p>
+
+
+
+<h3 class="wp-block-heading">Sicherheitskonzept zeigt Wirkung beim Weihnachtsmarkt</h3>
+
+
+
+<p>Insgesamt lässt sich feststellen, dass die Sicherheitsmaßnahmen der Polizei Stuttgart beim Weihnachtsmarkt 2024 effizient waren und zu einer spürbaren Reduzierung der Straftaten führten. Die Erfolge der Polizeiarbeit in diesem Jahr tragen dazu bei, das Vertrauen der Bevölkerung in die Sicherheitskräfte zu stärken und die Besucher des Weihnachtsmarktes ein Gefühl der Sicherheit zu gewährleisten.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://stuttgart-journal.de/tp3/2024/12/30/weihnachtsmarkt-2024-positive-bilanz-der-polizei/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

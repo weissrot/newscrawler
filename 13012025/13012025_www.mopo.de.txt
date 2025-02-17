@@ -1,0 +1,752 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>MOPO</title>
+	<atom:link href="https://www.mopo.de/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.mopo.de</link>
+	<description></description>
+	<lastBuildDate>Sun, 12 Jan 2025 23:21:18 +0000</lastBuildDate>
+	<language>de</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.12</generator>
+
+<image>
+	<url>https://cdn.mopo.de/uploads/sites/4/2024/04/cropped-logo-new.png?fit=32%2C32</url>
+	<title>MOPO</title>
+	<link>https://www.mopo.de</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Plötzlicher Schreckmoment: Drohne stürzt hinter deutschem Ski-Star ab</title>
+		<link>https://www.mopo.de/sport/sportmix/ploetzlicher-schreckmoment-drohne-stuerzt-hinter-deutschem-ski-star-ab/</link>
+					<comments>https://www.mopo.de/sport/sportmix/ploetzlicher-schreckmoment-drohne-stuerzt-hinter-deutschem-ski-star-ab/#respond</comments>
+		
+		<dc:creator><![CDATA[MOPO Redaktion]]></dc:creator>
+		<pubDate>Sun, 12 Jan 2025 20:57:53 +0000</pubDate>
+				<category><![CDATA[Sportmix]]></category>
+		<guid isPermaLink="false">https://www.mopo.de/?p=1410856</guid>
+
+					<description><![CDATA[<p>Der deutsche Skirennläufer Jonas Stockinger hat einen unangenehmen Zwischenfall beim Weltcup-Riesenslalom von Adelboden unbeschadet überstanden. Beim ersten Lauf des 25-Jährigen auf dem legendären Chuenisbärgli geriet die Kamera-Drohne des Schweizer Fernsehens außer Kontrolle und stürzte in den Schnee – nur wenige Meter hinter Stockinger. Die Ursache für den Absturz war nach Angaben des SRF zunächst unbekannt. [&#8230;]</p>
+<p><a rel="nofollow" href="https://www.mopo.de/sport/sportmix/ploetzlicher-schreckmoment-drohne-stuerzt-hinter-deutschem-ski-star-ab/">Plötzlicher Schreckmoment: Drohne stürzt hinter deutschem Ski-Star ab</a> wurde gefunden bei mopo.de</p>
+]]></description>
+										<content:encoded><![CDATA[<div id="bt-player" style="margin-bottom: 1em" data-code="28434f3b07a8c8f12e03a220e2959854"></div><script async
+    data-cmp-vendor="1181" data-cmp-script type="text/plain"  
+    src="https://bottalk.io/player/loader-v3.js"></script>
+<p><strong>Der deutsche Skirennläufer Jonas Stockinger hat einen unangenehmen Zwischenfall beim Weltcup-Riesenslalom von Adelboden unbeschadet überstanden. Beim ersten Lauf des 25-Jährigen auf dem legendären Chuenisbärgli geriet die Kamera-Drohne des Schweizer Fernsehens außer Kontrolle und stürzte in den Schnee – nur wenige Meter hinter Stockinger.</strong></p>
+
+
+
+<p>Die Ursache für den Absturz war nach Angaben des SRF zunächst unbekannt. „Es bestand aber zu keiner Zeit eine Gefahr für den Fahrer oder andere Personen. Es kamen keine Personen zu Schaden“, teilte der Sender auf Anfrage mehrerer Medien mit, der Fall werde untersucht.</p>
+
+
+
+<h2 id="h-erst-bei-vierschanzentournee-gab-es-einen-ahnlichen-fall">Erst bei Vierschanzentournee gab es einen ähnlichen Fall </h2>
+
+
+
+<p>Stockinger zeigte sich von den Geschehnissen unbeeindruckt. Der Athlet vom SC Herzogsreut fuhr als 18. beim Heimsieg des Schweizers Marco Odermatt sein bestes Weltcup-Ergebnis ein.</p>
+
+
+
+<p><strong>Das könnte Sie auch interessieren: </strong><a href="https://www.mopo.de/sport/sportmix/nach-spritze-in-den-arm-zverev-ohne-muehe-hoffe-dass-es-zwei-wochen-haelt/">Nach Spritze in den Arm sagt Zverev: „Hoffe, dass es zwei Wochen hält“</a></p>
+
+
+
+<p>Der Unfall weckte Erinnerungen an den Slalom von Madonna di Campiglio im Jahr 2015, wo eine abgestürzte Drohne den österreichischen Ski-Helden Marcel Hirscher nur knapp verfehlt hatte. Beim letzten Springen der Vierschanzentournee am Dreikönigstag in Bischofshofen war im ersten Durchgang eine Drohne in den Auslauf gestürzt. Zu Schaden kam in beiden Fällen niemand. (sid/mb)</p>
+<p><a rel="nofollow" href="https://www.mopo.de/sport/sportmix/ploetzlicher-schreckmoment-drohne-stuerzt-hinter-deutschem-ski-star-ab/">Plötzlicher Schreckmoment: Drohne stürzt hinter deutschem Ski-Star ab</a> wurde gefunden bei mopo.de</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.mopo.de/sport/sportmix/ploetzlicher-schreckmoment-drohne-stuerzt-hinter-deutschem-ski-star-ab/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Selenskyj erwartet mehr nordkoreanische Gefangene</title>
+		<link>https://www.mopo.de/news/politik-wirtschaft/krieg-ukraine-osteuropa-russland-liveticker/</link>
+		
+		<dc:creator><![CDATA[MOPO Redaktion]]></dc:creator>
+		<pubDate>Sun, 12 Jan 2025 20:53:00 +0000</pubDate>
+				<category><![CDATA[Politik]]></category>
+		<guid isPermaLink="false">https://www.mopo.de/?p=361660</guid>
+
+					<description><![CDATA[<p><a rel="nofollow" href="https://www.mopo.de/news/politik-wirtschaft/krieg-ukraine-osteuropa-russland-liveticker/">Selenskyj erwartet mehr nordkoreanische Gefangene</a> wurde gefunden bei mopo.de</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p id="h-"></p>
+
+
+
+<div data-app="dpa-liveblog" data-embed-type="dom" data-competition-id="607fc8b95c65af5e216e5a81"></div>
+<script type="text/javascript" src="https://core.dpa-infocom.net/js/dpa.js"></script>
+
+
+
+<p></p>
+<p><a rel="nofollow" href="https://www.mopo.de/news/politik-wirtschaft/krieg-ukraine-osteuropa-russland-liveticker/">Selenskyj erwartet mehr nordkoreanische Gefangene</a> wurde gefunden bei mopo.de</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Netanjahu spricht mit Biden über „Fortschritte“ bei Geisel-Gesprächen</title>
+		<link>https://www.mopo.de/news/politik-wirtschaft/israel-gaza-liveblog-aktuelle-news-zu-nahost/</link>
+		
+		<dc:creator><![CDATA[MOPO Redaktion]]></dc:creator>
+		<pubDate>Sun, 12 Jan 2025 20:52:00 +0000</pubDate>
+				<category><![CDATA[Politik]]></category>
+		<guid isPermaLink="false">https://www.mopo.de/?p=958586</guid>
+
+					<description><![CDATA[<p><a rel="nofollow" href="https://www.mopo.de/news/politik-wirtschaft/israel-gaza-liveblog-aktuelle-news-zu-nahost/">Netanjahu spricht mit Biden über „Fortschritte“ bei Geisel-Gesprächen</a> wurde gefunden bei mopo.de</p>
+]]></description>
+										<content:encoded><![CDATA[
+<div data-app="dpa-liveblog" data-embed-type="dom" data-competition-id="65212083a26418a8dc382d0a"></div>
+<script type="text/javascript" src="https://core.dpa-infocom.net/js/dpa.js"></script>
+
+
+
+<p></p>
+<p><a rel="nofollow" href="https://www.mopo.de/news/politik-wirtschaft/israel-gaza-liveblog-aktuelle-news-zu-nahost/">Netanjahu spricht mit Biden über „Fortschritte“ bei Geisel-Gesprächen</a> wurde gefunden bei mopo.de</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Beliebtes Café in Hamburg schließt für immer – doch es gibt eine gute Nachricht</title>
+		<link>https://www.mopo.de/hamburg/beliebtes-cafe-in-hamburg-schliesst-fuer-immer-doch-es-gibt-eine-gute-nachricht/</link>
+					<comments>https://www.mopo.de/hamburg/beliebtes-cafe-in-hamburg-schliesst-fuer-immer-doch-es-gibt-eine-gute-nachricht/#respond</comments>
+		
+		<dc:creator><![CDATA[Silvia Risch]]></dc:creator>
+		<pubDate>Sun, 12 Jan 2025 20:50:48 +0000</pubDate>
+				<category><![CDATA[Hamburg]]></category>
+		<guid isPermaLink="false">https://www.mopo.de/?p=1410896</guid>
+
+					<description><![CDATA[<p>Herzhaftes und süßes Frühstück: In der „Rain Cafeatery“ in der Großen Rainstraße 15 (Ottensen) starten die Gäste gemütlich in den Tag. Auf den Tisch kommen verschiedenste Frühstücksgerichte, fast alle aus hausgemachter Produktion – Eggs Benedict, Roastbeef Sandwich, Schoko-Pancakes, Granola. Doch jetzt ist Schluss: „Wir machen es kurz: Die ,Rain Cafeatery’ an der Großen Rainstraße schließt [&#8230;]</p>
+<p><a rel="nofollow" href="https://www.mopo.de/hamburg/beliebtes-cafe-in-hamburg-schliesst-fuer-immer-doch-es-gibt-eine-gute-nachricht/">Beliebtes Café in Hamburg schließt für immer – doch es gibt eine gute Nachricht</a> wurde gefunden bei mopo.de</p>
+]]></description>
+										<content:encoded><![CDATA[<div id="bt-player" style="margin-bottom: 1em" data-code="28434f3b07a8c8f12e03a220e2959854"></div><script async
+    data-cmp-vendor="1181" data-cmp-script type="text/plain"  
+    src="https://bottalk.io/player/loader-v3.js"></script>
+<p><strong>Herzhaftes und süßes Frühstück: In der „Rain Cafeatery“ in der Großen Rainstraße 15 (Ottensen) starten die Gäste gemütlich in den Tag. Auf den Tisch kommen verschiedenste Frühstücksgerichte, fast alle aus hausgemachter Produktion – Eggs Benedict, Roastbeef Sandwich, Schoko-Pancakes, Granola. Doch jetzt ist Schluss: „Wir machen es kurz: Die ,Rain Cafeatery’ an der Großen Rainstraße schließt Ende Januar“, verkündet das Team. Doch am zweiten Standort am Spritzenplatz soll es weitergehen.</strong></p>
+
+
+
+<p>Weinende Smileys und gebrochene Herzen – die Gäste trauern unter dem Post bei Instagram um ihr Café. Doch: „Die Bespielung von zwei Standorten wurde zunehmend zum Kraftakt“, heißt es zur Begründung auf Social Media. „Der Aufwand, beide in gleicher Qualität zu führen, wurde zum täglichen Spagat und wir haben festgestellt, dass uns der Spritzenplatz einfach mehr Möglichkeiten bietet, die wir gerne voll ausschöpfen möchten.“ </p>
+
+
+
+<p>Dort, nur drei Minuten von der Großen Rainstraße entfernt, gäbe es „eine größere Torten- und Kuchenauswahl, Pastries, mehr Tische, eine größere Sonnen-Terrasse und das alles bei nahezu identischer Speisekarte. Und dazu die Erlaubnis, alkoholische Getränke verkaufen zu dürfen.“</p>
+
+
+
+<h2 id="h-hamburg-ottensen-rain-cafeatery-schliesst-im-januar">Hamburg-Ottensen: „Rain Cafeatery“ schließt im Januar</h2>
+
+
+
+<p>Die Entscheidung sei trotzdem nicht leicht gefallen, „insbesondere, da es unser erstes Café ist und der Laden voller schöner Erinnerungen steckt und es auch einfach so gemütlich und muckelig ist.“ Mit Stolz erinnert das Team daran, mit die ersten gewesen zu sein, die in Hamburg Eggs Benedict, Pancakes und Shakshuka salonfähig gemacht haben.</p>
+
+
+
+<p><strong>Das könnte Sie auch interessieren:</strong> <a href="https://www.mopo.de/hamburg/pommes-laden-in-hamburg-neuer-snack-erhitzt-die-gemueter-langsam-pervers/">Pommes-Laden in Hamburg: Neuer Snack erhitzt die Gemüter – „langsam pervers“!</a></p>
+
+
+
+<p>Inhaber Niels Berschneider eröffnete das Café 2015. Neben dem Frühstück gibt es in der „Rain Cafeatery“ am Spritzenplatz 5 auch Kuchen und Torten, wie den New York Cheesecake, die Tiramisu-Torte oder den spanischen Vanille-Gugelhupf – sie werden täglich von der hauseigenen Konditorin gebacken. (sir)</p>
+<p><a rel="nofollow" href="https://www.mopo.de/hamburg/beliebtes-cafe-in-hamburg-schliesst-fuer-immer-doch-es-gibt-eine-gute-nachricht/">Beliebtes Café in Hamburg schließt für immer – doch es gibt eine gute Nachricht</a> wurde gefunden bei mopo.de</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.mopo.de/hamburg/beliebtes-cafe-in-hamburg-schliesst-fuer-immer-doch-es-gibt-eine-gute-nachricht/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>„Comics können auch ernste Geschichten erzählen und politisch sein”</title>
+		<link>https://www.mopo.de/hamburg/interview-comics-koennen-auch-ernste-geschichten-erzaehlen-und-politisch-sein/</link>
+					<comments>https://www.mopo.de/hamburg/interview-comics-koennen-auch-ernste-geschichten-erzaehlen-und-politisch-sein/#respond</comments>
+		
+		<dc:creator><![CDATA[Nina Gessner]]></dc:creator>
+		<pubDate>Sun, 12 Jan 2025 20:48:24 +0000</pubDate>
+				<category><![CDATA[Hamburg]]></category>
+		<guid isPermaLink="false">https://www.mopo.de/?p=1387775</guid>
+
+					<description><![CDATA[<p>Die Graphic Novel „Columbusstraße“ ist eine Familiensaga über den Zweiten Weltkrieg. In „Beate &#38; Serge Klarsfeld“ geht es um die berühmteste Ohrfeige der Welt. Und „Tunnel“ ist eine Gesellschaftssatire aus Israel. Der Hamburger Carlsen Verlag spielt eine wichtige Rolle bei der Aufwertung von Comics als Lektüre in Deutschland. Die Lektorin Annina Brell (35), selbst Comiczeichnerin, [&#8230;]</p>
+<p><a rel="nofollow" href="https://www.mopo.de/hamburg/interview-comics-koennen-auch-ernste-geschichten-erzaehlen-und-politisch-sein/">„Comics können auch ernste Geschichten erzählen und politisch sein”</a> wurde gefunden bei mopo.de</p>
+]]></description>
+										<content:encoded><![CDATA[<div id="bt-player" style="margin-bottom: 1em" data-premium="true" data-code="11ef0742603ee725b79c22ae80b04803"></div><script async
+    data-cmp-vendor="1181" data-cmp-script type="text/plain"  
+    src="https://bottalk.io/player/loader-v3.js"></script>
+<p><strong>Die Graphic Novel „Columbusstraße“ ist eine Familiensaga über den Zweiten Weltkrieg. In „Beate &amp; Serge Klarsfeld“ geht es um die berühmteste Ohrfeige der Welt. Und „Tunnel“ ist eine Gesellschaftssatire aus Israel. Der Hamburger Carlsen Verlag spielt eine wichtige Rolle bei der Aufwertung von Comics als Lektüre in Deutschland. Die Lektorin Annina Brell (35), selbst Comiczeichnerin, erklärt, warum Sprechblasengeschichten keineswegs trivial sind.</strong></p>
+
+
+
+<p><strong>MOPO: Frau Brell, haben Sie als Kind „Mickey Mouse“ lesen dürfen?</strong></p>
+
+
+
+<p><strong>Annina Brell: </strong>Ich habe sogar richtig viele „Lustige Taschenbücher“ gelesen. Später bin ich dann auf Mangas umgestiegen. Es hat mir nicht geschadet!</p>
+
+
+
+<p><strong>Sie meinen: Es ist trotzdem etwas aus Ihnen geworden? Sie haben Kunst und Illustration studiert, sind Comiczeichnerin, Festivalorganisatorin und Lektorin geworden. Sollten Eltern keine Angst haben, wenn ihre Kinder Comics lesen?</strong></p>
+
+
+
+<p>Auf keinen Fall. Es ist toll, wenn Kinder lesen und Comics sorgen dabei für wichtige Kompetenzen. Man muss beim Comic zwischen Text und Bild kombinieren. Auch zwischen den Bildern passiert viel, die Handlung spielt sich dazwischen ab. Das hat etwas filmisch-dynamisches. </p>
+
+
+
+<p><strong>Comics als Erstleser-Einstiegslektüre?</strong></p>
+
+
+
+<p>Comics sind ein dankbares Medium, um einzusteigen in eine Thematik. Das Bild-Text-Verständnis macht Spaß. Das gilt aber nicht nur für Kinder, sondern auch für Erwachsene. Comics können auch ernste Geschichten erzählen und politisch sein. Berühmte Beispiele sind Art Spiegelmans „Maus“ über die Geschichte seines Vaters, eines Holocaust-Überlebenden, oder „Barfuß durch Hiroshima“ von Keiji Nagazawa, die schon vor über 30 Jahren erschienen sind. Seitdem hat sich der Comicmarkt stark verändert.</p>
+
+
+
+<p><strong>Das könnte Sie auch interessieren:</strong> <a href="https://www.mopo.de/hamburg/ausgezeichnet-das-sind-die-besten-hamburg-buecher-des-jahres/">Ausgezeichnet! Das sind die besten Hamburg-Bücher des Jahres</a></p>
+
+
+
+<p><strong>Das gilt vor allem für Frankreich, wo Comics viel mehr im Mainstream verankert sind und die Buchhandlungen voll sind mit Comics über die französische Geschichte, über berühmte Persönlichkeiten oder politische Skandale. Es gibt die berühmten Comicfestivals von Angoulême und Saint-Malo.</strong></p>
+
+
+
+<p>Deutschland hängt da etwas hinterher, aber auch bei uns verändert sich die Szene. Auch hier gibt es inzwischen eine Reihe von Comicfestivals. Es wurden Professuren geschaffen wie die von Anke Feuchtenberger an der Hochschule für Angewandte Wissenschaften Hamburg (HAW). Neue Verlage entstehen. Comicläden eröffnen. Es gibt Comic-Zeitschriften, Lesungen, Workshops. Seit der Begriff Graphic Novel gefunden wurde, werden auch Menschen erreicht, die früher mit kritischem Blick auf Comics geblickt haben.</p>
+
+
+
+<p><strong>Was für Themen ziehen bei erwachsenen Lesern?</strong></p>
+
+
+
+<p>Vor allem zeitgeschichtliche Themen. „Persepolis“ von Marjane Satrapi über die Prägung einer ganzen Generation durch die Iranische Revolution wurde ein internationaler Bestseller. Aber auch biographische Comics wie beispielsweise der von Reinhard Kleist über David Bowie finden viele Fans. Es gibt auch Porträts über historische Persönlichkeiten von Cäsar bis Napoleon. Im Prinzip gibt es inzwischen zu fast allen Themen Comics.</p>
+<p><a rel="nofollow" href="https://www.mopo.de/hamburg/interview-comics-koennen-auch-ernste-geschichten-erzaehlen-und-politisch-sein/">„Comics können auch ernste Geschichten erzählen und politisch sein”</a> wurde gefunden bei mopo.de</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.mopo.de/hamburg/interview-comics-koennen-auch-ernste-geschichten-erzaehlen-und-politisch-sein/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Merz für Regulierung sozialer Medien</title>
+		<link>https://www.mopo.de/news/politik-wirtschaft/bundestagswahlkampf-politik-deutschland-liveticker/</link>
+		
+		<dc:creator><![CDATA[MOPO Redaktion]]></dc:creator>
+		<pubDate>Sun, 12 Jan 2025 20:08:00 +0000</pubDate>
+				<category><![CDATA[Politik]]></category>
+		<guid isPermaLink="false">https://www.mopo.de/?p=1363130</guid>
+
+					<description><![CDATA[<p><a rel="nofollow" href="https://www.mopo.de/news/politik-wirtschaft/bundestagswahlkampf-politik-deutschland-liveticker/">Merz für Regulierung sozialer Medien</a> wurde gefunden bei mopo.de</p>
+]]></description>
+										<content:encoded><![CDATA[<div id="bt-player" style="margin-bottom: 1em" data-code="28434f3b07a8c8f12e03a220e2959854"></div><script async
+    data-cmp-vendor="1181" data-cmp-script type="text/plain"  
+    src="https://bottalk.io/player/loader-v3.js"></script>
+<div data-app="dpa-liveblog" data-embed-type="dom" data-competition-id="673e248e8f5da470b4b242e7"></div>
+<script type="text/javascript" src="https://core.dpa-infocom.net/js/dpa.js"></script>
+
+
+
+<p></p>
+<p><a rel="nofollow" href="https://www.mopo.de/news/politik-wirtschaft/bundestagswahlkampf-politik-deutschland-liveticker/">Merz für Regulierung sozialer Medien</a> wurde gefunden bei mopo.de</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Ungewöhnliche Türkei-Abreise: Nur der halbe HSV-Kader flog zurück nach Hamburg</title>
+		<link>https://www.mopo.de/sport/hsv/kuriose-tuerkei-abreise-nur-der-halbe-hsv-kader-flog-zurueck-nach-hamburg/</link>
+					<comments>https://www.mopo.de/sport/hsv/kuriose-tuerkei-abreise-nur-der-halbe-hsv-kader-flog-zurueck-nach-hamburg/#respond</comments>
+		
+		<dc:creator><![CDATA[Simon Braasch]]></dc:creator>
+		<pubDate>Sun, 12 Jan 2025 20:04:52 +0000</pubDate>
+				<category><![CDATA[HSV]]></category>
+		<guid isPermaLink="false">https://www.mopo.de/?p=1410803</guid>
+
+					<description><![CDATA[<p>Als Peter Dietz am Samstagmittag die HSV-Profis am Flughafen Fuhlsbüttel in Empfang nahm, staunte er nicht schlecht. Moment mal, da fehlen doch einige, sagte der als „Helm-Peter“ bekannte Kultfan – und hatte Recht. Nur rund die Hälfte der Mannschaft war nach dem Trainingslager im türkischen Belek wieder in Hamburg gelandet, der Rest kehrte erst über [&#8230;]</p>
+<p><a rel="nofollow" href="https://www.mopo.de/sport/hsv/kuriose-tuerkei-abreise-nur-der-halbe-hsv-kader-flog-zurueck-nach-hamburg/">Ungewöhnliche Türkei-Abreise: Nur der halbe HSV-Kader flog zurück nach Hamburg</a> wurde gefunden bei mopo.de</p>
+]]></description>
+										<content:encoded><![CDATA[<div id="bt-player" style="margin-bottom: 1em" data-code="28434f3b07a8c8f12e03a220e2959854"></div><script async
+    data-cmp-vendor="1181" data-cmp-script type="text/plain"  
+    src="https://bottalk.io/player/loader-v3.js"></script>
+<p><strong>Als Peter Dietz am Samstagmittag die HSV-Profis am Flughafen Fuhlsbüttel in Empfang nahm, staunte er nicht schlecht. Moment mal, da fehlen doch einige, sagte der als „Helm-Peter“ bekannte Kultfan – und hatte Recht. Nur rund die Hälfte der Mannschaft war nach dem Trainingslager im türkischen Belek wieder in Hamburg gelandet, der Rest kehrte erst über Umwege in die Heimat zurück.</strong></p>
+
+
+
+<p>Ein ungewohntes Bild auch für die Autogrammsammler, die sich am Flughafen versammelt hatten, denn im Normalfall reisen die Profis stets zusammen. Diesmal aber war der HSV gezwungen, eine Ausnahme zu machen.</p>
+
+
+
+<h2 id="h-der-hsv-buchte-sein-belek-trainingslager-sehr-kurzfristig">Der HSV buchte sein Belek-Trainingslager sehr kurzfristig</h2>
+
+
+
+<p>Der Grund: Weil die Reisedaten des kurzfristig geplanten Trainingslagers <a href="https://www.mopo.de/sport/hsv/hsv-trainingslager-in-belek-warum-die-planung-fuer-viele-fans-ein-albtraum-war/">erst kurz nach Weihnachten genau fixiert wurden</a>, war der Verein nicht in der Lage, die Flüge nach Antalya abschließend zu buchen. Was beim Hinflug am 3. Januar noch reibungslos funktionierte, erwies sich bei der Rückkehr umso schwieriger. Zahlreiche Sitzplätze im Sun-Express-Flieger XQ 170, der die Mannschaft um 10.40 Uhr Ortszeit zurück nach Hamburg brachte, waren bereits belegt.</p>
+
+
+
+<br>
+
+
+
+<hr class="wp-block-separator"/>
+
+
+
+<div class="wp-block-media-text alignwide is-stacked-on-mobile" style="grid-template-columns:48% auto"><div class='image_credits_wrapper'>
+<div class='image-info'>
+<span class='image-source'></span>
+<span class='image-credits'>MOPO</span>
+</div><figure class="wp-block-media-text__media"><img src="https://cdn.mopo.de/uploads/sites/4/2025/01/101-collage.png?fit=1024%2C800" alt="" class=" size-full"/></figure></div><div class="wp-block-media-text__content">
+<p><strong>Die <a href="https://plus.mopo.de/wochenmopo/">WochenMOPO</a> – ab Freitag neu und überall, wo es Zeitungen gibt!</strong><br><strong>Diese Woche u.a. mit diesen Themen:</strong></p>
+
+
+
+<ul><li><strong>Immer mehr Obdachlose in Hamburg! </strong>Einer, der es rausschaffte, packt aus</li><li><strong>Hass aufs „Wunderland“: </strong>Mitgründer Frederik Braun im MOPO-Interview der Woche</li><li><strong>Fünfzig Jahre Elbtunnel: </strong>Was Mike Krüger damit zu tun hat</li><li><strong>Kampf um Wählerstimmen: </strong>FDP und Linke beim Auftakt des MOPO-Talk Wahl-Spezials</li><li><strong>20 Seiten Sport:</strong> HSV-Stürmer Selke über Ex-Trainer Baumgart und seine Zukunft &amp; Was St. Pauli mit Schach-Star Magnus Carlsen plant</li><li><strong>20 Seiten Plan7:</strong> So gibt&#8217;s Luxus-Essen günstig &amp; Ausgeh-Tipps für jeden Tag</li></ul>
+</div></div>
+
+
+
+<br>
+
+
+
+<hr class="wp-block-separator"/>
+
+
+
+<br>
+
+
+
+<p>Entsprechend buchte der Verein etwa die Hälfte seiner insgesamt 33 Spieler und auch nahezu alle Mitglieder des Staffs auf eine 15 Minuten später in Antalya startende Maschine nach Berlin-Schönefeld, gemeinsam mit den Kollegen des 1. FC Magdeburg. So reisten die HSV-Profis zwar zusammen aus dem Teamquartier in Belek ins 30 Kilometer entfernte Antalya, am Gate aber trennten sich die Wege.</p>
+
+
+
+<h2 id="h-auch-hsv-trainer-polzin-sass-mit-im-flieger-nach-hamburg">Auch HSV-Trainer Polzin saß mit im Flieger nach Hamburg</h2>
+
+
+
+<p>Während Cheftrainer Merlin Polzin, Sportdirektor Claus Costa und rund ein Dutzend Profis (unter anderem Davie Selke, Miro Muheim, Ludovit Reis, Immanuel Pherai, Dennis Hadzikadunic, Emir Sahiti, Sebastian Schonlau, Ransford Königsdörffer, Jonas Meffert oder Silvan Hefti) das Glück hatten, nach Hamburg fliegen zu können, musste die zweite Reisegruppe – zu der auch <a href="https://www.mopo.de/sport/hsv/agyekum-und-co-welcher-hsv-youngster-in-belek-welchen-eindruck-hinterliess/">alle aus der U21 nominierten Youngster zählten</a> – einen etwas längeren Trip in Kauf nehmen. Erst am Nachmittag, nach der Landung in Berlin und einer rund dreistündigen Busfahrt, trudelten auch die restlichen HSV-Profis in Hamburg ein.</p>
+
+
+
+<p><strong>Das könnte Sie auch interessieren:</strong> <a href="https://www.mopo.de/sport/hsv/nach-hsv-camp-was-hoffnung-macht-und-womit-polzin-noch-nicht-zufrieden-ist/">Türkei-Fazit: Daran muss der HSV jetzt noch arbeiten</a></p>
+
+
+
+<p>Die Freude über ihre Rückkehr war den Profis am freien Sonntag dann anzumerken. Jean-Luc Dompé postete ein Foto aus dem Auto, während Marco Richter einen Schnappschuss an der Alster via Instagram teilte. Die Hauptsache: Am Ende führten doch alle Wege zurück nach Hamburg. &nbsp;&nbsp;&nbsp;</p>
+<p><a rel="nofollow" href="https://www.mopo.de/sport/hsv/kuriose-tuerkei-abreise-nur-der-halbe-hsv-kader-flog-zurueck-nach-hamburg/">Ungewöhnliche Türkei-Abreise: Nur der halbe HSV-Kader flog zurück nach Hamburg</a> wurde gefunden bei mopo.de</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.mopo.de/sport/hsv/kuriose-tuerkei-abreise-nur-der-halbe-hsv-kader-flog-zurueck-nach-hamburg/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>20 Festnahmen: Ausschreitungen bei Rosa-Luxemburg-Gedenken</title>
+		<link>https://www.mopo.de/news/panorama/20-festnahmen-ausschreitungen-bei-rosa-luxemburg-gedenken/</link>
+		
+		<dc:creator><![CDATA[MOPO Redaktion]]></dc:creator>
+		<pubDate>Sun, 12 Jan 2025 20:04:16 +0000</pubDate>
+				<category><![CDATA[Panorama]]></category>
+		<guid isPermaLink="false">https://www.mopo.de/?p=1411120</guid>
+
+					<description><![CDATA[<p>In Berlin wird jährlich der Ermordung der Kommunistenführer Karl Liebknecht und Rosa Luxemburg am 15. Januar 1919 gedacht. Erneut gab es dabei Tumulte und viele Festnahmen – auch Polizisten wurden angegriffen. Auch in diesem Jahr sind Polizisten und Demonstranten in Berlin bei einer Kundgebung zum Gedenken an die Kommunistenführer Karl Liebknecht und Rosa Luxemburg gewaltvoll [&#8230;]</p>
+<p><a rel="nofollow" href="https://www.mopo.de/news/panorama/20-festnahmen-ausschreitungen-bei-rosa-luxemburg-gedenken/">20 Festnahmen: Ausschreitungen bei Rosa-Luxemburg-Gedenken</a> wurde gefunden bei mopo.de</p>
+]]></description>
+										<content:encoded><![CDATA[<div id="bt-player" style="margin-bottom: 1em" data-code="28434f3b07a8c8f12e03a220e2959854"></div><script async
+    data-cmp-vendor="1181" data-cmp-script type="text/plain"  
+    src="https://bottalk.io/player/loader-v3.js"></script>
+<p><strong>In Berlin wird jährlich der Ermordung der Kommunistenführer Karl Liebknecht und Rosa Luxemburg am 15. Januar 1919 gedacht. Erneut gab es dabei Tumulte und viele Festnahmen – auch Polizisten wurden angegriffen.</strong></p>
+
+
+
+<p>Auch in diesem Jahr sind Polizisten und Demonstranten in Berlin bei einer Kundgebung zum Gedenken an die Kommunistenführer Karl Liebknecht und Rosa Luxemburg gewaltvoll aneinandergeraten. Bislang seien mehr als 20 Personen festgenommen und zehn Ermittlungsverfahren eingeleitet worden, wie die Polizei auf X schrieb. Nach aktuellem Stand seien 17 Polizisten verletzt worden.</p>
+
+
+
+<h2 id="h-berlin-angriffe-auf-einsatzkrafte">Berlin: Angriffe auf Einsatzkräfte</h2>
+
+
+
+<p>Die Polizei setzte Reizgas ein. Auf Videos war zu sehen, wie die Einsatzkräfte Demonstranten durch Schieben und Drücken zurückdrängten und einige von ihnen zu Boden brachten.</p>
+
+
+
+<br>
+
+
+
+<hr class="wp-block-separator"/>
+
+
+
+<div class="wp-block-media-text alignwide is-stacked-on-mobile" style="grid-template-columns:48% auto"><div class='image_credits_wrapper'>
+<div class='image-info'>
+<span class='image-source'></span>
+<span class='image-credits'>MOPO</span>
+</div><figure class="wp-block-media-text__media"><img src="https://cdn.mopo.de/uploads/sites/4/2025/01/101-collage.png?fit=1024%2C800" alt="" class=" size-full"/></figure></div><div class="wp-block-media-text__content">
+<p><strong>Die <a href="https://plus.mopo.de/wochenmopo/">WochenMOPO</a> – ab Freitag neu und überall, wo es Zeitungen gibt!</strong><br><strong>Diese Woche u.a. mit diesen Themen:</strong></p>
+
+
+
+<ul><li><strong>Immer mehr Obdachlose in Hamburg! </strong>Einer, der es rausschaffte, packt aus</li><li><strong>Hass aufs „Wunderland“: </strong>Mitgründer Frederik Braun im MOPO-Interview der Woche</li><li><strong>Fünfzig Jahre Elbtunnel: </strong>Was Mike Krüger damit zu tun hat</li><li><strong>Kampf um Wählerstimmen: </strong>FDP und Linke beim Auftakt des MOPO-Talk Wahl-Spezials</li><li><strong>20 Seiten Sport:</strong> HSV-Stürmer Selke über Ex-Trainer Baumgart und seine Zukunft &amp; Was St. Pauli mit Schach-Star Magnus Carlsen plant</li><li><strong>20 Seiten Plan7:</strong> So gibt&#8217;s Luxus-Essen günstig &amp; Ausgeh-Tipps für jeden Tag</li></ul>
+</div></div>
+
+
+
+<br>
+
+
+
+<hr class="wp-block-separator"/>
+
+
+
+<br>
+
+
+
+<p>„Es gab Angriffe auf Einsatzkräfte“, sagte eine Polizeisprecherin. Es seien Bengalos gezündet und eine Flasche geworfen worden. Auf X teilte die Polizei zudem mit, dass Einsatzkräfte unter anderem mit Fahnenstangen angegriffen wurden. Zwischenzeitlich wurde der Demonstrationszug gestoppt.</p>
+
+
+
+<figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">
+<blockquote class="twitter-tweet" data-width="550" data-dnt="true"><p lang="de" dir="ltr">Der Aufzug hat den Endplatz in <a href="https://twitter.com/hashtag/Friedrichsfelde?src=hash&amp;ref_src=twsrc%5Etfw">#Friedrichsfelde</a> erreicht und ist beendet.<br>Während der Versammlung skandierten Versammlungsteilnehmende auf der <a href="https://twitter.com/hashtag/FrankfurterAllee?src=hash&amp;ref_src=twsrc%5Etfw">#FrankfurterAllee</a> immer wieder strafbare und polizeifeindliche Sprechchöre. Zudem wurden Transparente mit strafbarem Inhalt gezeigt, es… <a href="https://t.co/kUZnsk3Xe6">https://t.co/kUZnsk3Xe6</a> <a href="https://t.co/XddzaLV5mD">pic.twitter.com/XddzaLV5mD</a></p>&mdash; Polizei Berlin (@polizeiberlin) <a href="https://twitter.com/polizeiberlin/status/1878435955683561530?ref_src=twsrc%5Etfw">January 12, 2025</a></blockquote>
+</div></figure>
+
+
+
+<h2 id="h-demonstration-mit-tausenden-menschen">Demonstration mit Tausenden Menschen</h2>
+
+
+
+<p>Vergangenes Jahr hatte es bei der Gedenkveranstaltung ebenfalls Tumulte gegeben. Damals wurden nach Angaben der Polizei 21 Polizisten verletzt und 16 Demonstranten festgenommen. Demonstranten griffen Polizisten mit Holzlatten und Metallstangen an.</p>
+
+
+
+<div class='image_credits_wrapper'>
+<div class='image-info'>
+<span class='image-source'>Ines Schwerdtner und Jan van Aken, Bundesvorsitzende der Linken, kamen zur Gedenkveranstaltung für Rosa Luxemburg und Karl Liebknecht zur Gedenkstätte der Sozialisten am Zentralfriedhof Berlin-Friedrichsfelde.</span>
+<span class='image-credits'>picture alliance/dpa | Annette Riedl</span>
+</div><figure class="wp-block-image size-full"><img src="https://cdn.mopo.de/uploads/sites/4/2025/01/501591026-scaled.jpg?w=988" alt="Ines Schwerdtner und Jan van Aken, Bundesvorsitzende der Linken, kamen zur Gedenkveranstaltung für Rosa Luxemburg und Karl Liebknecht zur Gedenkstätte der Sozialisten am Zentralfriedhof Berlin-Friedrichsfelde." class="" data-recalc-dims="1"/><figcaption>Ines Schwerdtner und Jan van Aken, Bundesvorsitzende der Linken, kamen zur Gedenkveranstaltung für Rosa Luxemburg und Karl Liebknecht zur Gedenkstätte der Sozialisten am Zentralfriedhof Berlin-Friedrichsfelde.</figcaption></figure></div>
+
+
+
+<p>Die Demonstration startete am Frankfurter Tor. 10.000 Menschen waren angemeldet. Die Polizei schätzte die Zahl der Teilnehmer um 11.30 Uhr auf etwa 3000. Die zum Teil aufgeheizte Stimmung beruhigte sich im weiteren Verlauf der Demonstration.</p>
+
+
+
+<p><strong>Das könnte Sie auch interessieren:</strong> <a href="https://www.mopo.de/hamburg/hakenmesser-fleischerklinge-und-verbotene-klappmesser/">Polizei stellt Fleischerklinge und andere Waffen sicher – mitten in der City</a></p>
+
+
+
+<p>In Berlin wird jährlich der Ermordung der Kommunistenführer Karl Liebknecht und Rosa Luxemburg am 15. Januar 1919 gedacht. Anfang Januar 1919 hatte ein Revolutionsausschuss unter Liebknecht, Mitbegründer der Kommunistischen Partei, die Regierung des Sozialdemokraten Friedrich Ebert für abgesetzt erklärt. Es gab Massendemonstrationen. Der Spartakusaufstand wurde niedergeschlagen. (dpa/mp)</p>
+<p><a rel="nofollow" href="https://www.mopo.de/news/panorama/20-festnahmen-ausschreitungen-bei-rosa-luxemburg-gedenken/">20 Festnahmen: Ausschreitungen bei Rosa-Luxemburg-Gedenken</a> wurde gefunden bei mopo.de</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Tannenbaum brennt in Hamburger Reihenhaus – Mann schwer verletzt</title>
+		<link>https://www.mopo.de/hamburg/polizei/brennender-tannenbaum-greift-auf-wohnung-ueber-mann-erleidet-schwere-verbrennungen/</link>
+		
+		<dc:creator><![CDATA[Rüdiger Gaertner]]></dc:creator>
+		<pubDate>Sun, 12 Jan 2025 19:35:02 +0000</pubDate>
+				<category><![CDATA[Polizei]]></category>
+		<category><![CDATA[Polizei-NL]]></category>
+		<guid isPermaLink="false">https://www.mopo.de/?p=1411131</guid>
+
+					<description><![CDATA[<p>Ein brennender Tannenbaum in einem Reihenhaus in Bahrenfeld löste am Sonntagabend einen Feuerwehreinsatz aus. Die Flammen hatten sich rasend schnell ausgebreitet. Zwei Bewohner wurden verletzt, ein Mann schwer. Zum Brandausbruch kam es gegen 19.30 Uhr. Laut Feuerwehr sei ein brennender Tannenbaum in einem Reihenhaus an der Straße Bökenkamp gemeldet worden. Beim Eintreffen der Rettungskräfte hatten [&#8230;]</p>
+<p><a rel="nofollow" href="https://www.mopo.de/hamburg/polizei/brennender-tannenbaum-greift-auf-wohnung-ueber-mann-erleidet-schwere-verbrennungen/">Tannenbaum brennt in Hamburger Reihenhaus – Mann schwer verletzt</a> wurde gefunden bei mopo.de</p>
+]]></description>
+										<content:encoded><![CDATA[<div id="bt-player" style="margin-bottom: 1em" data-code="28434f3b07a8c8f12e03a220e2959854"></div><script async
+    data-cmp-vendor="1181" data-cmp-script type="text/plain"  
+    src="https://bottalk.io/player/loader-v3.js"></script>
+<p><strong>Ein brennender Tannenbaum in einem Reihenhaus in Bahrenfeld löste am Sonntagabend einen Feuerwehreinsatz aus. Die Flammen hatten sich rasend schnell ausgebreitet. Zwei Bewohner wurden verletzt, ein Mann schwer.</strong></p>
+
+
+
+<p>Zum Brandausbruch kam es gegen 19.30 Uhr. Laut Feuerwehr sei ein brennender Tannenbaum in einem Reihenhaus an der Straße Bökenkamp gemeldet worden. </p>
+
+
+
+<p>Beim Eintreffen der Rettungskräfte hatten sich die Flammen bereits auf das gesamte Wohnzimmer ausgebreitet. Feuerwehrleute retteten zwei Bewohner aus dem Haus. Sie wurden vom Notarzt versorgt.</p>
+
+
+
+<h2 id="h-hamburg-tannenbaum-brennt-mann-schwer-verletzt">Hamburg: Tannenbaum brennt – Mann schwer verletzt </h2>
+
+
+
+<p>Einer der Bewohner ist laut Polizei ein älterer Mann, der schwere Verbrennungen davongetragen hatte. Er kam ins Krankenhaus Boberg. Dort gibt es eine spezielle Abteilung für Brandverletzungen. </p>
+
+
+
+<p>Eine Frau hatte eine Rauchvergiftung erlitten. Sie kam ebenfalls ins Krankenhaus. Das Feuer war nach gut 30 Minuten gelöscht. Das Haus wurde durch den Brand unbewohnbar.</p>
+<p><a rel="nofollow" href="https://www.mopo.de/hamburg/polizei/brennender-tannenbaum-greift-auf-wohnung-ueber-mann-erleidet-schwere-verbrennungen/">Tannenbaum brennt in Hamburger Reihenhaus – Mann schwer verletzt</a> wurde gefunden bei mopo.de</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Erwiesen rechtsextremistisch: AfD trennt sich von Junger Alternative</title>
+		<link>https://www.mopo.de/news/politik-wirtschaft/gesichert-rechtsextrem-afd-trennt-sich-von-junger-alternative/</link>
+		
+		<dc:creator><![CDATA[Jörg Ratzsch]]></dc:creator>
+		<pubDate>Sun, 12 Jan 2025 19:27:53 +0000</pubDate>
+				<category><![CDATA[Politik]]></category>
+		<guid isPermaLink="false">https://www.mopo.de/?p=1411095</guid>
+
+					<description><![CDATA[<p>Die AfD beschließt nach langer Debatte ihr Programm zur Bundestagswahl. Hitzig wird es aber erst bei einem anderen Punkt: Die Jugendorganisation der AfD soll an die kurze Leine. Die Junge Alternative (JA) soll nicht mehr die Nachwuchsorganisation der AfD sein. Der Verein soll durch eine neue Parteijugend ersetzt werden, deren Funktionäre nicht gegen die Grundsätze [&#8230;]</p>
+<p><a rel="nofollow" href="https://www.mopo.de/news/politik-wirtschaft/gesichert-rechtsextrem-afd-trennt-sich-von-junger-alternative/">Erwiesen rechtsextremistisch: AfD trennt sich von Junger Alternative</a> wurde gefunden bei mopo.de</p>
+]]></description>
+										<content:encoded><![CDATA[<div id="bt-player" style="margin-bottom: 1em" data-code="28434f3b07a8c8f12e03a220e2959854"></div><script async
+    data-cmp-vendor="1181" data-cmp-script type="text/plain"  
+    src="https://bottalk.io/player/loader-v3.js"></script>
+<p><strong>Die AfD beschließt nach langer Debatte ihr Programm zur Bundestagswahl. Hitzig wird es aber erst bei einem anderen Punkt: Die Jugendorganisation der AfD soll an die kurze Leine.</strong></p>
+
+
+
+<p>Die Junge Alternative (JA) soll nicht mehr die Nachwuchsorganisation der AfD sein. Der Verein soll durch eine neue Parteijugend ersetzt werden, deren Funktionäre nicht gegen die Grundsätze der AfD verstoßen dürfen. Mit notwendiger Zweidrittelmehrheit entschied der AfD-Parteitag kurz vor seinem Abschluss in Riesa eine entsprechende Änderung der Satzung der AfD. Der JA-Bundesvorsitzende Hannes Gnauck warb für diesen Schritt und begründete dies unter anderem mit dem andernfalls möglicherweise drohenden Risiko eines Vereinsverbots.&nbsp;</p>
+
+
+
+<h2 id="h-afd-will-mehr-kontrolle-uber-neue-jugendorganisation">AfD will mehr Kontrolle über neue Jugendorganisation</h2>
+
+
+
+<p>Zuvor beschlossen die Delegierten das Wahlprogramm der AfD für die anstehende Bundestagswahl am 23. Februar. Nachdem das Treffen im sächsischen Riesa am Samstag wegen <a href="https://www.mopo.de/news/panorama/anti-afd-protest-linken-politiker-bei-polizeieinsatz-verletzt/">Blockadeaktionen von AfD-Gegnern</a> mit mehr als zwei Stunden Verspätung begonnen hatte, blieb es am zweiten Tag des Treffens ruhig auf den Straßen.&nbsp;</p>
+
+
+
+<br>
+
+
+
+<hr class="wp-block-separator"/>
+
+
+
+<div class="wp-block-media-text alignwide is-stacked-on-mobile" style="grid-template-columns:48% auto"><div class='image_credits_wrapper'>
+<div class='image-info'>
+<span class='image-source'></span>
+<span class='image-credits'>MOPO</span>
+</div><figure class="wp-block-media-text__media"><img src="https://cdn.mopo.de/uploads/sites/4/2025/01/101-collage.png?fit=1024%2C800" alt="" class=" size-full"/></figure></div><div class="wp-block-media-text__content">
+<p><strong>Die <a href="https://plus.mopo.de/wochenmopo/">WochenMOPO</a> – ab Freitag neu und überall, wo es Zeitungen gibt!</strong><br><strong>Diese Woche u.a. mit diesen Themen:</strong></p>
+
+
+
+<ul><li><strong>Immer mehr Obdachlose in Hamburg! </strong>Einer, der es rausschaffte, packt aus</li><li><strong>Hass aufs „Wunderland“: </strong>Mitgründer Frederik Braun im MOPO-Interview der Woche</li><li><strong>Fünfzig Jahre Elbtunnel: </strong>Was Mike Krüger damit zu tun hat</li><li><strong>Kampf um Wählerstimmen: </strong>FDP und Linke beim Auftakt des MOPO-Talk Wahl-Spezials</li><li><strong>20 Seiten Sport:</strong> HSV-Stürmer Selke über Ex-Trainer Baumgart und seine Zukunft &amp; Was St. Pauli mit Schach-Star Magnus Carlsen plant</li><li><strong>20 Seiten Plan7:</strong> So gibt&#8217;s Luxus-Essen günstig &amp; Ausgeh-Tipps für jeden Tag</li></ul>
+</div></div>
+
+
+
+<br>
+
+
+
+<hr class="wp-block-separator"/>
+
+
+
+<br>
+
+
+
+<p>Den Antrag für die Trennung von der JA hatte die Parteispitze eingebracht mit dem Ziel, die Jugendorganisation der AfD enger an die Partei zu binden. Das Bundesamt für Verfassungsschutz beobachtet die JA als erwiesen rechtsextremistische Bestrebung, wogegen sich AfD und JA in einem noch laufenden Eilverfahren wehren.</p>
+
+
+
+<p>Bisher hieß es in der Satzung: „Die Junge Alternative für Deutschland (JA) ist die offizielle Jugendorganisation der Alternative für Deutschland“ und diese sei ein eigenständiger Verein. Der Name wurde gestrichen, und es heißt nun, die Jugendorganisation der AfD sei ein rechtlich unselbstständiger Teil der Partei.&nbsp;</p>
+
+
+
+<p>Mitglieder mussten bisher – bis auf die Vorstände – nicht in der AfD sein. In der künftigen Organisation soll das nicht möglich sein: Jeder, der dort mitmachen will, soll auch AfD-Mitglied sein, außer Jugendliche unter 16, die noch kein AfD-Mitglied sein können.&nbsp;</p>
+
+
+
+<h2 id="h-afd-jugend-name-der-neuen-organisation-noch-offen">AfD-Jugend: Name der neuen Organisation noch offen</h2>
+
+
+
+<p>Ob die neue Organisation am Ende Patriotische Jugend heißen wird, wie&nbsp;der Bundesvorstand ursprünglich vorgeschlagen hatte, ist noch nicht entschieden. Die Parteispitze zeigte sich in Riesa offen für die Forderung, der Parteinachwuchs solle seinen Namen selbst wählen.&nbsp;</p>
+
+
+
+<p>Gegner der beschlossenen Änderung erklärten, viele JA-Mitglieder seien gegen eine Neugründung. Sie wünschten sich mehr Vertrauen des Parteivorstandes.</p>
+
+
+
+<p><strong>Das könnte Sie auch interessieren:</strong> <a href="https://www.mopo.de/hamburg/politik/hamburgs-afd-ist-eine-tiktok-macht-so-punkten-die-rechten-bei-jungen-waehlern/">Hamburgs AfD ist eine TikTok-Macht: So punkten die Rechten bei jungen Wählern</a></p>
+
+
+
+<p>Von der Neuregelung erhofft sich die AfD-Spitze nach eigener Aussage mehr Durchgriff etwa bei Fehlverhalten. Eine weitere Motivation ist, dass die AfD-Jugend, wenn sie kein eigenständiger Verein mehr ist, besser vor einem möglichen Verbot geschützt wäre. Ein Verbot einer Partei, die aktuell in Wählerumfrage mehr als 20 Prozent Zustimmung erreiche, sei unrealistisch, sagte JA-Bundeschef Gnauck. „Aber dort anzugreifen, wo wir am schwächsten sind, nämlich bei dem nicht eingetragenen Verein der Jungen Alternative, ist realistisch“, fügte er hinzu.</p>
+
+
+
+<h2 id="h-afd-wahlprogramm-beschlossen">AfD-Wahlprogramm beschlossen</h2>
+
+
+
+<p>Nachdem am ersten Tag über Außenpolitik, Migration und Kriminalitätsbekämpfung diskutiert worden war, komplettierte die AfD am zweiten Tag mit Beschlüssen zu Familienpolitik, Abtreibung und Geschichte ihr Wahlprogramm. Darin fordert die Partei, wie schon in ihrem Programm zur Europawahl im Vorjahr, unter dem umstrittenen Stichwort „Remigration“ eine strikte Migrationspolitik. Zudem plädiert sie für eine Wiedereinsetzung der Wehrpflicht, einen Ausstieg aus dem Euro und dem Pariser Klimaabkommen sowie für einen neuen europäischen Staatenbund. Dabei wird aber die explizite Forderung nach einem Austritt Deutschlands aus der EU (Dexit) vermieden.</p>
+
+
+
+<p>Am Vortag war AfD-Chefin Alice Weidel unter großem Jubel zur Kanzlerkandidatin ihrer Partei gekürt worden und hatte in einer anschließenden scharfen Rede ihre Partei auf den Wahlkampf eingeschworen. Die AfD wolle Rückführungen im großen Stil durchführen, „wenn es dann Remigration heißen soll, dann heißt es eben Remigration“, sagte Weidel. Das Wort hatte sie selbst bisher eher vermieden.</p>
+
+
+
+<h2 id="h-afd-parteitag-attacken-richtung-union">AfD-Parteitag: Attacken Richtung Union</h2>
+
+
+
+<p>Sie attackierte in ihrer Rede vor allem die CDU, warf ihr vor, von der AfD abzuschreiben und nannte sie eine „Betrügerpartei“. Sechs Wochen vor der Bundestagswahl liegt die Union mit Kanzlerkandidat Friedrich Merz (CDU) mit 30 bis 31 Prozent auf Platz eins vor der AfD, die zuletzt weiter zulegen konnte und bei 21 bis 22 Prozent steht.</p>
+
+
+
+<h2 id="h-wirbel-um-weidels-windmuhlen-aussage">Wirbel um Weidels Windmühlen-Aussage</h2>
+
+
+
+<p>Tosenden Beifall bekam Weidel bei ihrer Rede für den Ausruf: „Wenn wir am Ruder sind, wir reißen alle Windkraftwerke nieder. Nieder mit diesen Windmühlen der Schande.“ Diese Aussage wurde im Netz stark diskutiert. Weidel erläuterte am Rande des Parteitages, die Aussage habe sich auf ihre Aussagen kurz davor bezogen, bei denen es um den Reinhardswald in Hessen ging. Dieser werde im CDU-geführten Hessen für Windmühlen abgeholzt.&nbsp;</p>
+
+
+
+<p><strong>Das könnte Sie auch interessieren:</strong> <a href="https://www.mopo.de/hamburg/politik/rolle-rueckwaerts-beim-bsw-zaklin-nastic-tritt-nun-doch-an/">„Nutzen den Dieter-Bohlen-Effekt“: Der Peinlich-Parteitag des Hamburger BSW</a></p>
+
+
+
+<p>Knapp 60 Prozent der deutschen Stromerzeugung entfielen im vergangenen Jahr auf erneuerbare Energien etwa aus Wind und Sonne.&nbsp;</p>
+
+
+
+<p>Rund um die Veranstaltungshalle in Riesa blieb es am Sonntag ruhig. Die Polizeipräsenz war deutlich heruntergefahren. Am Samstag hatten Demonstranten durch Blockaden der Zufahrtswege den Beginn des Parteitags stark verzögert. Viele AfD-Delegierte kamen am Morgen nicht durch.</p>
+<p><a rel="nofollow" href="https://www.mopo.de/news/politik-wirtschaft/gesichert-rechtsextrem-afd-trennt-sich-von-junger-alternative/">Erwiesen rechtsextremistisch: AfD trennt sich von Junger Alternative</a> wurde gefunden bei mopo.de</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Kiezkicker freuen sich über Bank-Breite: So schlugen sich St. Paulis Debütanten</title>
+		<link>https://www.mopo.de/sport/fc-st-pauli/kiezkicker-freuen-sich-ueber-bank-breite-so-schlugen-sich-st-paulis-debuetanten/</link>
+					<comments>https://www.mopo.de/sport/fc-st-pauli/kiezkicker-freuen-sich-ueber-bank-breite-so-schlugen-sich-st-paulis-debuetanten/#respond</comments>
+		
+		<dc:creator><![CDATA[Stefan Krause]]></dc:creator>
+		<pubDate>Sun, 12 Jan 2025 19:09:08 +0000</pubDate>
+				<category><![CDATA[FC St. Pauli]]></category>
+		<guid isPermaLink="false">https://www.mopo.de/?p=1410178</guid>
+
+					<description><![CDATA[<p>Es ist erst ein paar Wochen her, da hätte ein Ausfall von Johannes Eggestein gar gruselige Auswirkungen auf den FC St. Pauli gehabt. Mitunter hatten in der Endphase 2024 zehn Profis verletzt oder gesperrt gefehlt. Nun erwischte es den Offensivmann vorm Frankfurt-Spiel, doch die Umstände sind inzwischen andere. St. Paulis Bank-Breite hat in entscheidendem Maße [&#8230;]</p>
+<p><a rel="nofollow" href="https://www.mopo.de/sport/fc-st-pauli/kiezkicker-freuen-sich-ueber-bank-breite-so-schlugen-sich-st-paulis-debuetanten/">Kiezkicker freuen sich über Bank-Breite: So schlugen sich St. Paulis Debütanten</a> wurde gefunden bei mopo.de</p>
+]]></description>
+										<content:encoded><![CDATA[<div id="bt-player" style="margin-bottom: 1em" data-code="28434f3b07a8c8f12e03a220e2959854"></div><script async
+    data-cmp-vendor="1181" data-cmp-script type="text/plain"  
+    src="https://bottalk.io/player/loader-v3.js"></script>
+<p><strong>Es ist erst ein paar Wochen her, da hätte ein Ausfall von Johannes Eggestein gar gruselige Auswirkungen auf den FC St. Pauli gehabt. Mitunter hatten in der Endphase 2024 zehn Profis verletzt oder gesperrt gefehlt. Nun erwischte es den Offensivmann vorm Frankfurt-Spiel, doch die Umstände sind inzwischen andere. St. Paulis Bank-Breite hat in entscheidendem Maße zugenommen.</strong></p>
+
+
+
+<p>Am Samstagmorgen war klar, dass es nichts werden würde. „Jojo hat schlecht geschlafen und sich übergeben“, erklärte Alexander Blessin. „Also haben wir überlegt, was haben wir für Möglichkeiten?“ Die Wahl fiel auf Danel Sinani, denn: „Das hat schon in Stuttgart gut geklappt mit ihm, weil Danel natürlich auch ballsicher ist, und zwei schnellen Spitzen über die Außen.“</p>
+
+
+
+<h2 id="h-noah-weisshaupt-angetan-von-st-paulis-potenzial">Noah Weißhaupt angetan von St. Paulis Potenzial</h2>
+
+
+
+<p>Es hätte aber – und das ist eben neu – noch andere Alternativen gegeben. Zum Beispiel hätte Morgan Guilavogui ins Zentrum beordert und Noah Weißhaupt auf die linke Bahn rücken können. Dass die Leihgabe St. Pauli noch viel Freude machen kann, zeigte er dann nach seiner Einwechslung für Dapo Afolayan. „Es hat mega Spaß gemacht“, befand er nach dem Abpfiff. „Ich habe auch gesehen, welches Potenzial die Mannschaft hat.“</p>
+
+
+
+<p><strong>Das könnte Sie auch interessieren:</strong> <a href="https://www.mopo.de/sport/fc-st-pauli/st-pauli-noten-gegen-frankfurt-ein-ungluecksrabe-ein-kiezkicker-mit-einer-zwei/">Die Noten zum 0:1 gegen die SGE</a></p>
+
+
+
+<p>Neben Weißhaupt feierte auch James Sands gleich sein Debüt, er war für Carlo Boukhalfa in die Partie gekommen. „Die Wechselspieler sind reingekommen, es gab keinen Leistungsabfall. Wir konnten das Tempo hoch halten, konnten die Qualität hoch halten. Und das stimmt mich positiv, dass wir jetzt schneller wechseln können und intern im Competition-Mode sind“, frohlockte Coach Blessin.</p>
+
+
+
+<h2 id="h-lars-ritzka-hat-rucken-johannes-eggestein-magen-darm">Lars Ritzka hat Rücken, Johannes Eggestein Magen-Darm</h2>
+
+
+
+<p>Aufgrund der neuen Gegebenheiten stand am Ende auch ein Lars Ritzka, der über leichte Rückenprobleme klagte, nicht im Kader. „Wenn ich eine solche Auswahl habe, dann bringt es mir nichts, wenn er mir sagt, er könne 90 Prozent abrufen. Das war mir dann einfach zu unsicher.“ Und so kann Blessin auch die Genesung von Eggestein in Bezug auf das Bochum-Spiel am Mittwoch halbwegs entspannt verfolgen, wenngleich er feststellte: „Er ist ein wichtiger Spieler, von daher wäre es schon schön, wenn er wieder zurückkommt.</p>
+<p><a rel="nofollow" href="https://www.mopo.de/sport/fc-st-pauli/kiezkicker-freuen-sich-ueber-bank-breite-so-schlugen-sich-st-paulis-debuetanten/">Kiezkicker freuen sich über Bank-Breite: So schlugen sich St. Paulis Debütanten</a> wurde gefunden bei mopo.de</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.mopo.de/sport/fc-st-pauli/kiezkicker-freuen-sich-ueber-bank-breite-so-schlugen-sich-st-paulis-debuetanten/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Bahnmitarbeiter gibt Übergang zu früh frei: Zug erfasst Auto</title>
+		<link>https://www.mopo.de/im-norden/niedersachsen/bahnmitarbeiter-gibt-uebergang-zu-frueh-frei-zug-erfasst-auto/</link>
+		
+		<dc:creator><![CDATA[MOPO Redaktion]]></dc:creator>
+		<pubDate>Sun, 12 Jan 2025 19:04:41 +0000</pubDate>
+				<category><![CDATA[Niedersachsen]]></category>
+		<category><![CDATA[Polizei-NL]]></category>
+		<guid isPermaLink="false">https://www.mopo.de/?p=1411086</guid>
+
+					<description><![CDATA[<p>Weil die ursprüngliche Schranke ausgefallen war, hatte ein Bahnmitarbeiter an einem Oldenburger Bahnübergang die Sicherung der Gleise übernommen. Er gab den Bahnübergang am Samstagnachmittag frei – mit fatalen Folgen. Wegen Bauarbeiten an den Schranken sicherte der Bahnmitarbeiter laut Bundespolizei die Gleise mit einer Behelfsschranke, die von Hand bedient wird. Der Mann habe den Bahnübergang nach [&#8230;]</p>
+<p><a rel="nofollow" href="https://www.mopo.de/im-norden/niedersachsen/bahnmitarbeiter-gibt-uebergang-zu-frueh-frei-zug-erfasst-auto/">Bahnmitarbeiter gibt Übergang zu früh frei: Zug erfasst Auto</a> wurde gefunden bei mopo.de</p>
+]]></description>
+										<content:encoded><![CDATA[<div id="bt-player" style="margin-bottom: 1em" data-code="28434f3b07a8c8f12e03a220e2959854"></div><script async
+    data-cmp-vendor="1181" data-cmp-script type="text/plain"  
+    src="https://bottalk.io/player/loader-v3.js"></script>
+<p><strong>Weil die ursprüngliche Schranke ausgefallen war, hatte ein Bahnmitarbeiter an einem Oldenburger Bahnübergang die Sicherung der Gleise übernommen. Er gab den Bahnübergang am Samstagnachmittag</strong> <strong>frei – mit fatalen Folgen.</strong></p>
+
+
+
+<p>Wegen Bauarbeiten an den Schranken sicherte der Bahnmitarbeiter laut Bundespolizei die Gleise mit einer Behelfsschranke, die von Hand bedient wird. Der Mann habe den Bahnübergang nach der Durchfahrt eines Zuges zu früh freigegeben. </p>
+
+
+
+<p>Ein weiterer Zug kollidierte mit dem Auto eines 28-Jährigen, der die Gleise passierte. Auch eine 60-jährige Radfahrerin wurde verletzt. Ob der Zug der Nordwestbahn auch sie erfasst hat oder ob das Auto mit der Radfahrerin zusammengeprallt ist, ist derzeit noch unklar.</p>
+
+
+
+<h2 id="h-oldenburg-bahnstrecke-fur-mehrere-stunden-gesperrt">Oldenburg: Bahnstrecke für mehrere Stunden gesperrt</h2>
+
+
+
+<p>Der 28-jährige Autofahrer sei bei dem Unfall leicht verletzt worden, so die Bundespolizei. Die Radfahrerin wurde mit nicht lebensgefährlichen Verletzungen ins Krankenhaus gebracht.&nbsp;</p>
+
+
+
+<p><strong>Das könnte Sie auch interessieren:</strong> <a href="https://www.mopo.de/hamburg/fassungslosigkeit-und-trauer-kult-barkeeper-vom-kiez-auf-intensivstation/">Fassungslosigkeit und Trauer: Kult-Barkeeper vom Kiez auf Intensivstation</a></p>
+
+
+
+<p>Die 40 Bahnreisenden blieben unverletzt. Aufgrund der Aufräumarbeiten und Ermittlungen waren der Bahnübergang sowie die Bahnstrecke zwischen Wilhelmshaven und Oldenburg für mehrere Stunden gesperrt. Wie es zu dem Unfall kommen konnte, ermittelt jetzt die Bundespolizei. (dpa/mp)</p>
+<p><a rel="nofollow" href="https://www.mopo.de/im-norden/niedersachsen/bahnmitarbeiter-gibt-uebergang-zu-frueh-frei-zug-erfasst-auto/">Bahnmitarbeiter gibt Übergang zu früh frei: Zug erfasst Auto</a> wurde gefunden bei mopo.de</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

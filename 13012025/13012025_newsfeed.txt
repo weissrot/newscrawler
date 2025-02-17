@@ -1,0 +1,185 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+  <channel>
+    <title>ZEIT ONLINE | Nachrichten, News, Hintergründe und Debatten</title>
+    <link>https://www.zeit.de/index</link>
+    <description>Aktuelle Nachrichten, Kommentare, Analysen und Hintergrundberichte aus Politik, Wirtschaft, Gesellschaft, Wissen, Kultur und Sport lesen Sie auf ZEIT ONLINE.</description>
+    <language>de-de</language>
+    <copyright>Copyright © 2025, ZEIT ONLINE GmbH</copyright>
+    <atom:link href="https://newsfeed.zeit.de/index" rel="self" type="text/html"/>
+    <docs>https://www.zeit.de/hilfe/rss</docs>
+    <generator>zeit.web 4.150</generator>
+    <managingEditor>online-cr@zeit.de (Chefredaktion ZEIT ONLINE)</managingEditor>
+    <webMaster>webmaster@zeit.de (Technik ZEIT ONLINE)</webMaster>
+    <image>
+      <url>https://img.zeit.de/bilder/elemente_01_06/logos/homepage_top.gif</url>
+      <title>ZEIT ONLINE | Nachrichten, News, Hintergründe und Debatten</title>
+      <link>https://www.zeit.de/index</link>
+    </image>
+    <item>
+      <title>Großeinsatz der Feuerwehr: Fachwerkhaus in Vollbrand - zwei Menschen vermisst</title>
+      <link>https://www.zeit.de/news/2025-01/12/haus-in-der-riedlinger-altstadt-steht-in-brand</link>
+      <description></description>
+      <enclosure url="https://img.zeit.de/news/2025-01/12/haus-in-der-riedlinger-altstadt-steht-in-brand-image-group/original__640x360" length="20480" type="image/jpeg"/>
+      <category>News</category>
+      <dc:creator>ZEIT ONLINE: News - </dc:creator>
+      <pubDate>Sun, 12 Jan 2025 23:26:51 -0000</pubDate>
+      <guid isPermaLink="false">{urn:uuid:45e124fe-8fe2-4e9f-818b-f70f2047a7c7}</guid>
+      <content:encoded><![CDATA[<a href="https://www.zeit.de/news/2025-01/12/haus-in-der-riedlinger-altstadt-steht-in-brand"><img style="float:left; margin-right:5px" src="https://img.zeit.de/news/2025-01/12/haus-in-der-riedlinger-altstadt-steht-in-brand-image-group/wide__148x84"></a> None]]></content:encoded>
+    </item>
+    <item>
+      <title>Verkehr: Unfall im Landkreis Bayreuth: eine Tote, fünf Verletzte</title>
+      <link>https://www.zeit.de/news/2025-01/12/unfall-im-landkreis-bayreuth-eine-tote-fuenf-verletzte</link>
+      <description></description>
+      <enclosure url="https://img.zeit.de/news/2025-01/12/unfall-im-landkreis-bayreuth-eine-tote-fuenf-verletzte-image-group/original__640x360" length="20480" type="image/jpeg"/>
+      <category>News</category>
+      <dc:creator>ZEIT ONLINE: News - </dc:creator>
+      <pubDate>Sun, 12 Jan 2025 23:17:23 -0000</pubDate>
+      <guid isPermaLink="false">{urn:uuid:a813e91b-75bc-4032-8e7d-f1d64619093d}</guid>
+      <content:encoded><![CDATA[<a href="https://www.zeit.de/news/2025-01/12/unfall-im-landkreis-bayreuth-eine-tote-fuenf-verletzte"><img style="float:left; margin-right:5px" src="https://img.zeit.de/news/2025-01/12/unfall-im-landkreis-bayreuth-eine-tote-fuenf-verletzte-image-group/wide__148x84"></a> None]]></content:encoded>
+    </item>
+    <item>
+      <title>Autobranche: Porsche verkauft weniger Autos</title>
+      <link>https://www.zeit.de/news/2025-01/13/porsche-verkauft-weniger-autos</link>
+      <description></description>
+      <enclosure url="https://img.zeit.de/news/2025-01/13/porsche-verkauft-weniger-autos-image-group/original__640x360" length="20480" type="image/jpeg"/>
+      <category>News</category>
+      <dc:creator>ZEIT ONLINE: News - </dc:creator>
+      <pubDate>Sun, 12 Jan 2025 23:01:35 -0000</pubDate>
+      <guid isPermaLink="false">{urn:uuid:f8610228-ceff-4b03-96ce-1101b738b79b}</guid>
+      <content:encoded><![CDATA[<a href="https://www.zeit.de/news/2025-01/13/porsche-verkauft-weniger-autos"><img style="float:left; margin-right:5px" src="https://img.zeit.de/news/2025-01/13/porsche-verkauft-weniger-autos-image-group/wide__148x84"></a> None]]></content:encoded>
+    </item>
+    <item>
+      <title>Kriminalität: Schüsse in Köln - Mann schwer verletzt</title>
+      <link>https://www.zeit.de/news/2025-01/13/schuesse-in-koeln-mann-schwer-verletzt</link>
+      <description></description>
+      <enclosure url="https://img.zeit.de/news/2025-01/13/schuesse-in-koeln-mann-schwer-verletzt-image-group/original__640x360" length="20480" type="image/jpeg"/>
+      <category>News</category>
+      <dc:creator>ZEIT ONLINE: News - </dc:creator>
+      <pubDate>Sun, 12 Jan 2025 23:01:27 -0000</pubDate>
+      <guid isPermaLink="false">{urn:uuid:9b803733-188e-4241-8780-deaf1d5ef7cd}</guid>
+      <content:encoded><![CDATA[<a href="https://www.zeit.de/news/2025-01/13/schuesse-in-koeln-mann-schwer-verletzt"><img style="float:left; margin-right:5px" src="https://img.zeit.de/news/2025-01/13/schuesse-in-koeln-mann-schwer-verletzt-image-group/wide__148x84"></a> None]]></content:encoded>
+    </item>
+    <item>
+      <title>Kalenderblatt: Was geschah am 13. Januar?</title>
+      <link>https://www.zeit.de/news/2025-01/12/was-geschah-am-13-januar</link>
+      <description></description>
+      <enclosure url="https://img.zeit.de/news/2025-01/12/was-geschah-am-13-januar-image-group/original__640x360" length="20480" type="image/jpeg"/>
+      <category>News</category>
+      <dc:creator>ZEIT ONLINE: News - </dc:creator>
+      <pubDate>Sun, 12 Jan 2025 22:55:35 -0000</pubDate>
+      <guid isPermaLink="false">{urn:uuid:530b2d8c-3429-4afb-b6fc-258f2a02cf86}</guid>
+      <content:encoded><![CDATA[<a href="https://www.zeit.de/news/2025-01/12/was-geschah-am-13-januar"><img style="float:left; margin-right:5px" src="https://img.zeit.de/news/2025-01/12/was-geschah-am-13-januar-image-group/wide__148x84"></a> None]]></content:encoded>
+    </item>
+    <item>
+      <title>Waldbrände: Flammen in und um Los Angeles dehnen sich weiter aus</title>
+      <link>https://www.zeit.de/gesellschaft/zeitgeschehen/2025-01/los-angeles-braende-breiten-sich-weiter-aus-16-vermisste</link>
+      <description>Der Wetterdienst der USA rechnet noch mindestens bis Mitte der Woche mit heftigen Winden, die die Feuer weiter antreiben könnten. Mindestens 16 Menschen werden vermisst.</description>
+      <enclosure url="https://img.zeit.de/gesellschaft/zeitgeschehen/2025-01/los-angeles-braende-breiten-sich-weiter-aus-16-vermisste-bild/original__640x360" length="20480" type="image/jpeg"/>
+      <category>Zeitgeschehen</category>
+      <dc:creator>ZEIT ONLINE: Zeitgeschehen - Sophia Boddenberg</dc:creator>
+      <pubDate>Sun, 12 Jan 2025 22:49:37 -0000</pubDate>
+      <guid isPermaLink="false">{urn:uuid:f08027aa-78d0-4341-be92-0619b44e8644}</guid>
+      <content:encoded><![CDATA[<a href="https://www.zeit.de/gesellschaft/zeitgeschehen/2025-01/los-angeles-braende-breiten-sich-weiter-aus-16-vermisste"><img style="float:left; margin-right:5px" src="https://img.zeit.de/gesellschaft/zeitgeschehen/2025-01/los-angeles-braende-breiten-sich-weiter-aus-16-vermisste-bild/wide__148x84"></a> Der Wetterdienst der USA rechnet noch mindestens bis Mitte der Woche mit heftigen Winden, die die Feuer weiter antreiben könnten. Mindestens 16 Menschen werden vermisst.]]></content:encoded>
+    </item>
+    <item>
+      <title>Mannheim: Fußgänger bei Unfall lebensgefährlich verletzt</title>
+      <link>https://www.zeit.de/news/2025-01/12/zwei-verletzte-bei-unfall-zwischen-auto-und-fussgaenger</link>
+      <description></description>
+      <enclosure url="https://img.zeit.de/news/2025-01/12/zwei-verletzte-bei-unfall-zwischen-auto-und-fussgaenger-image-group/original__640x360" length="20480" type="image/jpeg"/>
+      <category>News</category>
+      <dc:creator>ZEIT ONLINE: News - </dc:creator>
+      <pubDate>Sun, 12 Jan 2025 22:41:58 -0000</pubDate>
+      <guid isPermaLink="false">{urn:uuid:374a9466-4fa1-4c18-be02-27868c4f9a00}</guid>
+      <content:encoded><![CDATA[<a href="https://www.zeit.de/news/2025-01/12/zwei-verletzte-bei-unfall-zwischen-auto-und-fussgaenger"><img style="float:left; margin-right:5px" src="https://img.zeit.de/news/2025-01/12/zwei-verletzte-bei-unfall-zwischen-auto-und-fussgaenger-image-group/wide__148x84"></a> None]]></content:encoded>
+    </item>
+    <item>
+      <title>Supercopa-Spektakel: Ter Stegen jubelt mit: Erster Barça-Titel unter Flick</title>
+      <link>https://www.zeit.de/news/2025-01/12/erster-flick-titel-mit-bar-a-5-2-in-irrem-cl-sico</link>
+      <description></description>
+      <enclosure url="https://img.zeit.de/news/2025-01/12/erster-flick-titel-mit-bar-a-5-2-in-irrem-cl-sico-image-group/original__640x360" length="20480" type="image/jpeg"/>
+      <category>News</category>
+      <dc:creator>ZEIT ONLINE: News - </dc:creator>
+      <pubDate>Sun, 12 Jan 2025 22:24:33 -0000</pubDate>
+      <guid isPermaLink="false">{urn:uuid:eee6640e-7573-44b2-ad15-8ac2a59953d0}</guid>
+      <content:encoded><![CDATA[<a href="https://www.zeit.de/news/2025-01/12/erster-flick-titel-mit-bar-a-5-2-in-irrem-cl-sico"><img style="float:left; margin-right:5px" src="https://img.zeit.de/news/2025-01/12/erster-flick-titel-mit-bar-a-5-2-in-irrem-cl-sico-image-group/wide__148x84"></a> None]]></content:encoded>
+    </item>
+    <item>
+      <title>Ostsee: Besatzung des havarierten Tankers ist ohne Strom und Wasser</title>
+      <link>https://www.zeit.de/gesellschaft/zeitgeschehen/2025-01/ostsee-oeltanker-eventin-ruegen-besatzung</link>
+      <description>Das Havariekommando hat den Einsatz rund um den Tanker "Eventin" beendet. An Bord harren 24 Besatzungsmitglieder ohne Strom und Wasser aus.</description>
+      <enclosure url="https://img.zeit.de/gesellschaft/zeitgeschehen/2025-01/ostsee-oeltanker-eventin-ruegen-besatzung-bild/original__640x360" length="20480" type="image/jpeg"/>
+      <category>Zeitgeschehen</category>
+      <dc:creator>ZEIT ONLINE: Zeitgeschehen - Johannes Ehrmann</dc:creator>
+      <pubDate>Sun, 12 Jan 2025 21:52:47 -0000</pubDate>
+      <guid isPermaLink="false">{urn:uuid:86891451-c5ee-4b43-b807-0632f4c932ff}</guid>
+      <content:encoded><![CDATA[<a href="https://www.zeit.de/gesellschaft/zeitgeschehen/2025-01/ostsee-oeltanker-eventin-ruegen-besatzung"><img style="float:left; margin-right:5px" src="https://img.zeit.de/gesellschaft/zeitgeschehen/2025-01/ostsee-oeltanker-eventin-ruegen-besatzung-bild/wide__148x84"></a> Das Havariekommando hat den Einsatz rund um den Tanker "Eventin" beendet. An Bord harren 24 Besatzungsmitglieder ohne Strom und Wasser aus.]]></content:encoded>
+    </item>
+    <item>
+      <title>Fußball-Bundesliga: Union-Manager Heldt wettert gegen DFB und Kontrollausschuss</title>
+      <link>https://www.zeit.de/news/2025-01/12/union-manager-heldt-wettert-gegen-dfb-und-kontrollausschuss</link>
+      <description></description>
+      <enclosure url="https://img.zeit.de/news/2025-01/12/union-manager-heldt-wettert-gegen-dfb-und-kontrollausschuss-image-group/original__640x360" length="20480" type="image/jpeg"/>
+      <category>News</category>
+      <dc:creator>ZEIT ONLINE: News - </dc:creator>
+      <pubDate>Sun, 12 Jan 2025 21:44:44 -0000</pubDate>
+      <guid isPermaLink="false">{urn:uuid:4703a8fc-dd05-43e5-8084-415f8e2db321}</guid>
+      <content:encoded><![CDATA[<a href="https://www.zeit.de/news/2025-01/12/union-manager-heldt-wettert-gegen-dfb-und-kontrollausschuss"><img style="float:left; margin-right:5px" src="https://img.zeit.de/news/2025-01/12/union-manager-heldt-wettert-gegen-dfb-und-kontrollausschuss-image-group/wide__148x84"></a> None]]></content:encoded>
+    </item>
+    <item>
+      <title>Neurologie: "Wer gehorcht, ist weniger empfänglich für den Schmerz von anderen"</title>
+      <link>https://www.zeit.de/wissen/2025-01/neurologie-gehorsamkeit-schmerz-forschung-emilie-caspar</link>
+      <description>Würden Sie auf Befehl anderen wehtun? Die Neurowissenschaftlerin Emilie Caspar erforscht, was im Gehirn passiert, wenn wir gehorchen. Und warum Neinsagen so schwer ist.</description>
+      <enclosure url="https://img.zeit.de/wissen/2024-12/neurologie-gehorsamkeit-schmerz-forschung-emilie-caspar-bild/original__640x360" length="20480" type="image/jpeg"/>
+      <category>Wissen</category>
+      <dc:creator>ZEIT ONLINE: Wissen - Elena Erdmann</dc:creator>
+      <pubDate>Sun, 12 Jan 2025 21:37:43 -0000</pubDate>
+      <guid isPermaLink="false">{urn:uuid:9a481aff-4509-40b3-84b2-a0206501bd43}</guid>
+      <content:encoded><![CDATA[<a href="https://www.zeit.de/wissen/2025-01/neurologie-gehorsamkeit-schmerz-forschung-emilie-caspar"><img style="float:left; margin-right:5px" src="https://img.zeit.de/wissen/2024-12/neurologie-gehorsamkeit-schmerz-forschung-emilie-caspar-bild/wide__148x84"></a> Würden Sie auf Befehl anderen wehtun? Die Neurowissenschaftlerin Emilie Caspar erforscht, was im Gehirn passiert, wenn wir gehorchen. Und warum Neinsagen so schwer ist.]]></content:encoded>
+    </item>
+    <item>
+      <title>Stichwahl: Kroatiens Präsident Zoran Milanović ist wiedergewählt</title>
+      <link>https://www.zeit.de/politik/ausland/2025-01/zoran-milanovi-kroatien-stichwahl</link>
+      <description>Zoran Milanović steht nach der Stichwahl ums Präsidentenamt in Kroatien vor einer zweiten Amtszeit. In der ersten Wahlrunde hatte er die absolute Mehrheit knapp verpasst.</description>
+      <enclosure url="https://img.zeit.de/politik/ausland/2025-01/kroatien-wahl-milanovic-praesident-bild/original__640x360" length="20480" type="image/jpeg"/>
+      <category>Ausland</category>
+      <dc:creator>ZEIT ONLINE: Ausland - Fabian Albrecht, Sven Crefeld</dc:creator>
+      <pubDate>Sun, 12 Jan 2025 21:06:26 -0000</pubDate>
+      <guid isPermaLink="false">{urn:uuid:d47e7453-956f-490e-a0a8-04a5e0842468}</guid>
+      <content:encoded><![CDATA[<a href="https://www.zeit.de/politik/ausland/2025-01/zoran-milanovi-kroatien-stichwahl"><img style="float:left; margin-right:5px" src="https://img.zeit.de/politik/ausland/2025-01/kroatien-wahl-milanovic-praesident-bild/wide__148x84"></a> Zoran Milanović steht nach der Stichwahl ums Präsidentenamt in Kroatien vor einer zweiten Amtszeit. In der ersten Wahlrunde hatte er die absolute Mehrheit knapp verpasst.]]></content:encoded>
+    </item>
+    <item>
+      <title>"Tatort" Kiel: Sie hat das nicht für Geld gemacht</title>
+      <link>https://www.zeit.de/kultur/film/2025-01/tatort-kiel-borowski-und-das-hungrige-herz-obduktionsbericht</link>
+      <description>Weder Themenfilm noch Krimi: Im neuen Kieler "Tatort" deklinieren die Kommissare mühsam den Umgang mit Sex und Liebe durch.</description>
+      <enclosure url="https://img.zeit.de/kultur/film/2025-01/tatort-kiel-borowski-und-das-hungrige-herz-obduktionsbericht-teaserbild/original__640x360" length="20480" type="image/jpeg"/>
+      <category>Film</category>
+      <dc:creator>ZEIT ONLINE: Film - Matthias Dell</dc:creator>
+      <pubDate>Sun, 12 Jan 2025 20:48:14 -0000</pubDate>
+      <guid isPermaLink="false">{urn:uuid:e306dbef-9cf4-4e40-aebe-f0d9f597edc9}</guid>
+      <content:encoded><![CDATA[<a href="https://www.zeit.de/kultur/film/2025-01/tatort-kiel-borowski-und-das-hungrige-herz-obduktionsbericht"><img style="float:left; margin-right:5px" src="https://img.zeit.de/kultur/film/2025-01/tatort-kiel-borowski-und-das-hungrige-herz-obduktionsbericht-teaserbild/wide__148x84"></a> Weder Themenfilm noch Krimi: Im neuen Kieler "Tatort" deklinieren die Kommissare mühsam den Umgang mit Sex und Liebe durch.]]></content:encoded>
+    </item>
+    <item>
+      <title>BSW-Bundesparteitag: Noch 41 Tage Zittern</title>
+      <link>https://www.zeit.de/politik/deutschland/2025-01/bsw-bundesparteitag-wahlprogramm-bundestagswahl-sahra-wagenknecht</link>
+      <description>Antiamerikanismus statt Ukrainekritik: Mit neuen Schwerpunkten will das BSW die Fünf-Prozent-Hürde schaffen. Plötzlich kritisiert Wagenknecht auch die AfD.</description>
+      <enclosure url="https://img.zeit.de/politik/deutschland/2025-01/bsw-bundesparteitag-wahlprogramm-bundestagswahl-sahra-4/original__640x360" length="20480" type="image/jpeg"/>
+      <category>Deutschland</category>
+      <dc:creator>ZEIT ONLINE: Deutschland - Lisa Caspari, Victoria Jung</dc:creator>
+      <pubDate>Sun, 12 Jan 2025 20:02:07 -0000</pubDate>
+      <guid isPermaLink="false">{urn:uuid:cb581ec8-707a-4bd2-88a7-8e4325973cc8}</guid>
+      <content:encoded><![CDATA[<a href="https://www.zeit.de/politik/deutschland/2025-01/bsw-bundesparteitag-wahlprogramm-bundestagswahl-sahra-wagenknecht"><img style="float:left; margin-right:5px" src="https://img.zeit.de/politik/deutschland/2025-01/bsw-bundesparteitag-wahlprogramm-bundestagswahl-sahra-4/wide__148x84"></a> Antiamerikanismus statt Ukrainekritik: Mit neuen Schwerpunkten will das BSW die Fünf-Prozent-Hürde schaffen. Plötzlich kritisiert Wagenknecht auch die AfD.]]></content:encoded>
+    </item>
+    <item>
+      <title>"Landman": Verbohrt</title>
+      <link>https://www.zeit.de/kultur/film/2025-01/landman-serie-us-oelgeschaeft-billy-bob-thornton</link>
+      <description>Tagsüber gieren die "Landman"-Männer nach Öl, abends glotzen sie auf Frauenhintern. Die Serie soll den woken TV-Zeitgeist durchrütteln, ist aber selbst dafür zu dämlich.</description>
+      <enclosure url="https://img.zeit.de/kultur/film/2025-01/landman/original__640x360" length="20480" type="image/jpeg"/>
+      <category>Film</category>
+      <dc:creator>ZEIT ONLINE: Film - Daniel Gerhardt</dc:creator>
+      <pubDate>Sun, 12 Jan 2025 19:42:01 -0000</pubDate>
+      <guid isPermaLink="false">{urn:uuid:5ef98e82-49ef-4f09-9275-a4ec64ba0f0c}</guid>
+      <content:encoded><![CDATA[<a href="https://www.zeit.de/kultur/film/2025-01/landman-serie-us-oelgeschaeft-billy-bob-thornton"><img style="float:left; margin-right:5px" src="https://img.zeit.de/kultur/film/2025-01/landman/wide__148x84"></a> Tagsüber gieren die "Landman"-Männer nach Öl, abends glotzen sie auf Frauenhintern. Die Serie soll den woken TV-Zeitgeist durchrütteln, ist aber selbst dafür zu dämlich.]]></content:encoded>
+    </item>
+  </channel>
+</rss>

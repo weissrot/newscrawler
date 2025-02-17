@@ -1,0 +1,56 @@
+version: '3'
+
+services:
+  postgres:
+    image: postgres:13
+    environment:
+      - POSTGRES_USER=airflow
+      - POSTGRES_PASSWORD=airflow
+      - POSTGRES_DB=airflow
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+
+  redis:
+    image: redis:6
+    volumes:
+      - redis_data:/data
+
+  airflow-webserver:
+    image: apache/airflow:2.5.0
+    environment:
+      - LOAD_EXAMPLES=no
+      - AIRFLOW__CORE__SQL_ALCHEMY_CONN=postgresql+psycopg2://airflow:airflow@postgres/airflow
+    ports:
+      - "8080:8080"
+    depends_on:
+      - postgres
+      - redis
+      - airflow-scheduler
+    volumes:
+      - ./dags:/opt/airflow/dags
+    command: webserver  # Added command to start the webserver
+
+  airflow-scheduler:
+    image: apache/airflow:2.5.0
+    environment:
+      - AIRFLOW__CORE__LOAD_EXAMPLES=False
+      - AIRFLOW__CORE__SQL_ALCHEMY_CONN=postgresql+psycopg2://airflow:airflow@postgres/airflow
+    volumes:
+      - ./dags:/opt/airflow/dags
+    depends_on:
+      - postgres
+      - redis
+    command: scheduler  # Added command to start the scheduler
+
+  airflow-worker:
+    image: apache/airflow:2.5.0
+    depends_on:
+      - airflow-scheduler
+      - airflow-webserver
+    command: worker  # Added command to start the worker
+
+volumes:
+  postgres_data:
+  redis_data:
+
+
